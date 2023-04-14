@@ -45,7 +45,7 @@ $$
                     combined_sections.append(prev_section)
                     prev_section = section
 
-            if len(prev_section) == 0:
+            if len(prev_section) > 0:
                 combined_sections.append(prev_section)
 
         return combined_sections
