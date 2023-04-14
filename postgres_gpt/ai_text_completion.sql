@@ -1,3 +1,6 @@
+-- Generate text via openai api
+-- https://platform.openai.com/docs/guides/completion/introduction
+
 create function ai_text_completion(prompt varchar, max_token integer = 256)
     returns varchar
 as

@@ -1,3 +1,5 @@
+-- Split all markdowns in the specified directory into embedding vectors。
+
 create function ai_embedding_doc(doc_dir varchar, doc_table varchar)
     returns integer
 as

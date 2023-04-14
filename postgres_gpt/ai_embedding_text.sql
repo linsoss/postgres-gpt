@@ -1,3 +1,6 @@
+-- Calculate the embedding vector via openai
+-- https://platform.openai.com/docs/guides/embeddings
+
 create function ai_embedding_text(text varchar, max_content_length integer = 8000)
     returns vector(1536)
 as

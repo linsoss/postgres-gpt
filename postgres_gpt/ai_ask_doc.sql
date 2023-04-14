@@ -1,3 +1,6 @@
+-- Search for the text closest to the question as a prompt from the vector results
+-- stored in doc_table, and obtain an answer through openai.
+
 create function ai_ask_doc(doc_table varchar, question varchar, max_token integer = 1024, mode varchar = 'v2')
     returns varchar
 as
