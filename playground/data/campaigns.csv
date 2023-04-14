@@ -1,0 +1,978 @@
+73,8,Starfire,cost_per_impression,paused,3871,,2017-02-17 00:09:51.792667,2017-02-17 00:09:51.792667
+74,8,Cy-Gor,cost_per_impression,archived,5443,,2017-02-17 00:10:04.59091,2017-02-17 00:10:04.59091
+75,8,Toad Ivy,cost_per_impression,running,7429,,2017-02-17 00:10:15.098363,2017-02-17 00:10:15.098363
+76,8,The Arclight,cost_per_impression,running,5287,,2017-02-17 00:10:29.123507,2017-02-17 00:10:29.123507
+77,8,Cypher,cost_per_impression,running,9562,,2017-02-17 00:10:46.642095,2017-02-17 00:10:46.642095
+78,8,Copycat XI,cost_per_impression,archived,1324,,2017-02-17 00:10:57.191889,2017-02-17 00:10:57.191889
+79,8,General Jack of Hearts Man,cost_per_click,paused,1691,,2017-02-17 00:11:15.387471,2017-02-17 00:11:15.387471
+80,8,Gravity Man,cost_per_click,archived,3187,,2017-02-17 00:11:25.805646,2017-02-17 00:11:25.805646
+81,8,Doctor Polaris,cost_per_impression,archived,9092,,2017-02-17 00:11:43.112455,2017-02-17 00:11:43.112455
+189,20,Curse,cost_per_click,running,2331,,2017-02-17 00:33:19.875957,2017-02-17 00:33:19.875957
+190,20,Misfit Claw,cost_per_click,running,7590,,2017-02-17 00:33:20.308845,2017-02-17 00:33:20.308845
+191,20,Stardust,cost_per_click,paused,2330,,2017-02-17 00:33:20.651256,2017-02-17 00:33:20.651256
+192,20,Doctor Wildfire Man,cost_per_click,archived,9213,,2017-02-17 00:33:21.095931,2017-02-17 00:33:21.095931
+193,20,Spyke Strange,cost_per_click,paused,8843,,2017-02-17 00:33:21.466498,2017-02-17 00:33:21.466498
+194,20,Bane Brain,cost_per_impression,running,1970,,2017-02-17 00:33:21.774379,2017-02-17 00:33:21.774379
+195,20,Aurora,cost_per_impression,archived,4575,,2017-02-17 00:33:21.982029,2017-02-17 00:33:21.982029
+196,20,Agent Nina Theroux the Fated,cost_per_impression,archived,1972,,2017-02-17 00:33:22.274609,2017-02-17 00:33:22.274609
+197,20,Hulk Strike,cost_per_impression,paused,3976,,2017-02-17 00:33:22.682015,2017-02-17 00:33:22.682015
+198,20,Annihilus,cost_per_click,paused,7068,,2017-02-17 00:33:22.942304,2017-02-17 00:33:22.942304
+199,20,Quicksilver the Fated,cost_per_impression,paused,3036,,2017-02-17 00:33:23.416317,2017-02-17 00:33:23.416317
+600,60,Captain Animal the Fated,cost_per_impression,paused,9283,,2017-02-17 00:35:45.928232,2017-02-17 00:35:45.928232
+601,60,Red Proto-Goblin the Hunter,cost_per_impression,archived,8812,,2017-02-17 00:35:46.131121,2017-02-17 00:35:46.131121
+602,60,The Bishop,cost_per_click,archived,517,,2017-02-17 00:35:46.374205,2017-02-17 00:35:46.374205
+603,60,Cogliostro Thirteen,cost_per_impression,paused,8286,,2017-02-17 00:35:46.634583,2017-02-17 00:35:46.634583
+604,60,Mogo Fist,cost_per_impression,paused,1557,,2017-02-17 00:35:46.940357,2017-02-17 00:35:46.940357
+605,60,Illustrious Naruto Uzumaki X,cost_per_click,archived,7212,,2017-02-17 00:35:47.266042,2017-02-17 00:35:47.266042
+606,60,Kang,cost_per_click,running,7688,,2017-02-17 00:35:47.624315,2017-02-17 00:35:47.624315
+607,60,Wildfire,cost_per_impression,paused,4070,,2017-02-17 00:35:48.041266,2017-02-17 00:35:48.041266
+608,60,General Spawn Claw,cost_per_click,paused,4308,,2017-02-17 00:35:48.391781,2017-02-17 00:35:48.391781
+609,60,Metamorpho I,cost_per_click,archived,125,,2017-02-17 00:35:48.6571,2017-02-17 00:35:48.6571
+610,60,Thundra,cost_per_click,running,7546,,2017-02-17 00:35:49.079964,2017-02-17 00:35:49.079964
+611,60,Moon Knight II,cost_per_impression,archived,975,,2017-02-17 00:35:49.29832,2017-02-17 00:35:49.29832
+612,60,Cyborg Doc Samson Lord,cost_per_impression,archived,5678,,2017-02-17 00:35:49.673924,2017-02-17 00:35:49.673924
+613,60,Supah Cable,cost_per_impression,running,3389,,2017-02-17 00:35:49.992237,2017-02-17 00:35:49.992237
+614,60,Agent Gog,cost_per_impression,archived,6980,,2017-02-17 00:35:50.19174,2017-02-17 00:35:50.19174
+1,1,Magnificent Bullseye,cost_per_impression,running,1706,,2017-02-16 23:53:56.992985,2017-02-16 23:53:56.992985
+2,1,Blaquesmith Fist,cost_per_impression,running,8156,,2017-02-16 23:54:06.511545,2017-02-16 23:54:06.511545
+3,1,Mystique the Hunter,cost_per_click,archived,9900,,2017-02-16 23:54:15.129407,2017-02-16 23:54:15.129407
+4,1,Penguin Thirteen,cost_per_impression,running,8986,,2017-02-16 23:54:25.338386,2017-02-16 23:54:25.338386
+5,1,Moloch,cost_per_click,running,9004,,2017-02-16 23:54:40.682848,2017-02-16 23:54:40.682848
+6,1,Vulcan,cost_per_click,running,4741,,2017-02-16 23:54:53.41152,2017-02-16 23:54:53.41152
+142,15,Giant Dash,cost_per_impression,archived,458,,2017-02-17 00:23:49.735272,2017-02-17 00:23:49.735272
+143,15,Illustrious Ripcord,cost_per_click,archived,7914,,2017-02-17 00:24:00.73578,2017-02-17 00:24:00.73578
+144,15,Tiger Shark X,cost_per_impression,running,3152,,2017-02-17 00:24:16.911369,2017-02-17 00:24:16.911369
+145,15,Callisto of Hearts,cost_per_click,archived,9051,,2017-02-17 00:24:27.330754,2017-02-17 00:24:27.330754
+146,15,Joker,cost_per_click,paused,3315,,2017-02-17 00:24:38.582272,2017-02-17 00:24:38.582272
+147,15,Armor Dragon,cost_per_click,paused,2337,,2017-02-17 00:24:47.267844,2017-02-17 00:24:47.267844
+148,15,Moon Knight,cost_per_impression,archived,1277,,2017-02-17 00:25:01.714704,2017-02-17 00:25:01.714704
+149,15,Magnificent Morph Woman,cost_per_impression,archived,3198,,2017-02-17 00:25:19.216559,2017-02-17 00:25:19.216559
+150,15,Ultra Brother Voodoo,cost_per_click,paused,6483,,2017-02-17 00:25:28.917617,2017-02-17 00:25:28.917617
+151,15,Mr Sunspot Machine,cost_per_click,running,9710,,2017-02-17 00:25:41.983886,2017-02-17 00:25:41.983886
+152,15,Hobgoblin Strike,cost_per_impression,running,9195,,2017-02-17 00:25:55.311351,2017-02-17 00:25:55.311351
+237,25,Green Dash X,cost_per_click,running,8228,,2017-02-17 00:33:38.412725,2017-02-17 00:33:38.412725
+238,25,Two-Face the Fated,cost_per_click,paused,439,,2017-02-17 00:33:38.806255,2017-02-17 00:33:38.806255
+239,25,Dark Thing Strange,cost_per_impression,archived,3225,,2017-02-17 00:33:39.129406,2017-02-17 00:33:39.129406
+240,25,Illustrious Ant Strange,cost_per_click,archived,6355,,2017-02-17 00:33:39.420188,2017-02-17 00:33:39.420188
+241,25,Bat,cost_per_click,paused,9531,,2017-02-17 00:33:39.930155,2017-02-17 00:33:39.930155
+242,25,Thing,cost_per_impression,archived,1782,,2017-02-17 00:33:40.221768,2017-02-17 00:33:40.221768
+243,25,Mockingbird Lord,cost_per_click,paused,5777,,2017-02-17 00:33:40.587975,2017-02-17 00:33:40.587975
+244,25,Illustrious Bushido,cost_per_impression,archived,6214,,2017-02-17 00:33:40.929034,2017-02-17 00:33:40.929034
+245,25,Magnificent Jigsaw Spirit,cost_per_click,running,2387,,2017-02-17 00:33:41.331368,2017-02-17 00:33:41.331368
+246,25,Osiris Thirteen,cost_per_impression,paused,1143,,2017-02-17 00:33:41.580048,2017-02-17 00:33:41.580048
+629,63,Mr Vibe III,cost_per_impression,running,9187,,2017-02-17 00:35:55.755743,2017-02-17 00:35:55.755743
+630,63,Mr Metallo XI,cost_per_click,paused,8809,,2017-02-17 00:35:55.952059,2017-02-17 00:35:55.952059
+631,63,Doctor Clea I,cost_per_click,running,6893,,2017-02-17 00:35:56.351233,2017-02-17 00:35:56.351233
+632,63,Rorschach the Hunter,cost_per_impression,running,6266,,2017-02-17 00:35:56.660817,2017-02-17 00:35:56.660817
+633,63,Violator,cost_per_impression,paused,5426,,2017-02-17 00:35:57.042344,2017-02-17 00:35:57.042344
+634,63,Illustrious Phantom Man,cost_per_impression,paused,3117,,2017-02-17 00:35:57.32616,2017-02-17 00:35:57.32616
+635,63,Supah Ultron Machine,cost_per_impression,running,222,,2017-02-17 00:35:57.542413,2017-02-17 00:35:57.542413
+636,63,Polaris Strike,cost_per_click,paused,8324,,2017-02-17 00:35:57.77817,2017-02-17 00:35:57.77817
+637,63,Flash,cost_per_impression,paused,8225,,2017-02-17 00:35:58.17736,2017-02-17 00:35:58.17736
+803,82,Red Cottonmouth,cost_per_click,running,7422,,2017-02-17 00:37:02.40186,2017-02-17 00:37:02.40186
+804,82,Ra's Al Ghul the Hunter,cost_per_click,paused,6861,,2017-02-17 00:37:02.619087,2017-02-17 00:37:02.619087
+805,82,Cyborg Winter Soldier Brain,cost_per_impression,paused,1317,,2017-02-17 00:37:02.902705,2017-02-17 00:37:02.902705
+806,82,Hancock,cost_per_impression,paused,3413,,2017-02-17 00:37:03.328768,2017-02-17 00:37:03.328768
+807,82,Cat,cost_per_click,running,4456,,2017-02-17 00:37:03.565079,2017-02-17 00:37:03.565079
+808,82,Punisher X,cost_per_click,archived,4860,,2017-02-17 00:37:03.979349,2017-02-17 00:37:03.979349
+301,31,Callisto,cost_per_impression,paused,8031,,2017-02-17 00:34:00.732033,2017-02-17 00:34:00.732033
+302,31,Captain Wolverine I,cost_per_click,paused,5326,,2017-02-17 00:34:01.060124,2017-02-17 00:34:01.060124
+303,31,General Mogo II,cost_per_click,archived,5312,,2017-02-17 00:34:01.392832,2017-02-17 00:34:01.392832
+304,31,Green Chromos II,cost_per_impression,paused,5440,,2017-02-17 00:34:01.652126,2017-02-17 00:34:01.652126
+305,31,Rogue,cost_per_impression,running,9707,,2017-02-17 00:34:01.968628,2017-02-17 00:34:01.968628
+306,31,The Cat Skull,cost_per_impression,paused,687,,2017-02-17 00:34:02.3009,2017-02-17 00:34:02.3009
+307,31,Watcher Thirteen,cost_per_impression,paused,7064,,2017-02-17 00:34:02.635943,2017-02-17 00:34:02.635943
+308,31,Dark Synch Ivy,cost_per_click,running,8810,,2017-02-17 00:34:02.827267,2017-02-17 00:34:02.827267
+309,31,The Dagger,cost_per_impression,archived,2071,,2017-02-17 00:34:03.177326,2017-02-17 00:34:03.177326
+310,31,General Colossus,cost_per_impression,running,8630,,2017-02-17 00:34:03.568792,2017-02-17 00:34:03.568792
+869,88,The Aztar,cost_per_impression,paused,1730,,2017-02-17 00:37:27.556878,2017-02-17 00:37:27.556878
+870,88,Magnificent Darkstar of Hearts,cost_per_impression,archived,8528,,2017-02-17 00:37:27.809696,2017-02-17 00:37:27.809696
+871,88,Rogue Ivy,cost_per_click,running,7504,,2017-02-17 00:37:28.100672,2017-02-17 00:37:28.100672
+872,88,Abomination the Hunter,cost_per_impression,running,2562,,2017-02-17 00:37:28.360768,2017-02-17 00:37:28.360768
+873,88,Agent Trickster Brain,cost_per_click,archived,123,,2017-02-17 00:37:28.65945,2017-02-17 00:37:28.65945
+874,88,Green Misfit the Hunter,cost_per_click,archived,7917,,2017-02-17 00:37:28.918984,2017-02-17 00:37:28.918984
+875,88,Magnificent Warpath Girl,cost_per_click,running,9110,,2017-02-17 00:37:29.370196,2017-02-17 00:37:29.370196
+876,88,Animal X,cost_per_impression,paused,5199,,2017-02-17 00:37:29.751248,2017-02-17 00:37:29.751248
+230,24,Captain Hobgoblin II,cost_per_impression,running,6834,,2017-02-17 00:33:35.719005,2017-02-17 00:33:35.719005
+231,24,Annihilus,cost_per_click,archived,3780,,2017-02-17 00:33:36.068594,2017-02-17 00:33:36.068594
+232,24,Cyborg Ego Girl,cost_per_click,archived,3855,,2017-02-17 00:33:36.403686,2017-02-17 00:33:36.403686
+233,24,Star-Lord Strike,cost_per_click,paused,7017,,2017-02-17 00:33:36.694114,2017-02-17 00:33:36.694114
+234,24,Firestar,cost_per_click,paused,1896,,2017-02-17 00:33:37.020232,2017-02-17 00:33:37.020232
+235,24,General Vision,cost_per_impression,paused,2345,,2017-02-17 00:33:37.495222,2017-02-17 00:33:37.495222
+236,24,Joker,cost_per_impression,archived,699,,2017-02-17 00:33:37.979093,2017-02-17 00:33:37.979093
+247,26,Molten Man,cost_per_impression,archived,434,,2017-02-17 00:33:41.962019,2017-02-17 00:33:41.962019
+248,26,Red Corsair,cost_per_click,archived,3218,,2017-02-17 00:33:42.355836,2017-02-17 00:33:42.355836
+249,26,Captain Hybrid,cost_per_click,paused,3798,,2017-02-17 00:33:42.755181,2017-02-17 00:33:42.755181
+250,26,Cypher Eyes,cost_per_click,paused,549,,2017-02-17 00:33:43.063127,2017-02-17 00:33:43.063127
+251,26,Overtkill,cost_per_click,running,1503,,2017-02-17 00:33:43.54659,2017-02-17 00:33:43.54659
+252,26,Ultron,cost_per_impression,paused,9086,,2017-02-17 00:33:43.847275,2017-02-17 00:33:43.847275
+253,26,Bomb Queen,cost_per_impression,running,2426,,2017-02-17 00:33:44.076615,2017-02-17 00:33:44.076615
+254,26,Mr Box,cost_per_impression,running,1835,,2017-02-17 00:33:44.610935,2017-02-17 00:33:44.610935
+255,26,Green Doomsday the Fated,cost_per_impression,running,8526,,2017-02-17 00:33:44.851563,2017-02-17 00:33:44.851563
+256,26,Agent Goliath IX,cost_per_impression,running,6300,,2017-02-17 00:33:45.272369,2017-02-17 00:33:45.272369
+325,33,Cyborg Martian Manhunter,cost_per_impression,paused,8167,,2017-02-17 00:34:08.792899,2017-02-17 00:34:08.792899
+326,33,The Moon Knight,cost_per_impression,running,7123,,2017-02-17 00:34:09.113603,2017-02-17 00:34:09.113603
+327,33,Mimic,cost_per_click,paused,5001,,2017-02-17 00:34:09.437672,2017-02-17 00:34:09.437672
+328,33,Doctor Namorita IX,cost_per_impression,running,6317,,2017-02-17 00:34:09.934251,2017-02-17 00:34:09.934251
+329,33,Electro,cost_per_impression,running,5422,,2017-02-17 00:34:10.18798,2017-02-17 00:34:10.18798
+330,33,Yellowjacket,cost_per_click,running,8508,,2017-02-17 00:34:10.530724,2017-02-17 00:34:10.530724
+331,33,Mr Lobo,cost_per_impression,running,9171,,2017-02-17 00:34:10.764277,2017-02-17 00:34:10.764277
+332,33,Captain Energy,cost_per_click,running,8441,,2017-02-17 00:34:11.021624,2017-02-17 00:34:11.021624
+333,33,Cogliostro Woman,cost_per_impression,running,5416,,2017-02-17 00:34:11.312222,2017-02-17 00:34:11.312222
+334,33,Abomination,cost_per_impression,paused,2138,,2017-02-17 00:34:11.738407,2017-02-17 00:34:11.738407
+335,33,Ultra Moloch II,cost_per_click,archived,8102,,2017-02-17 00:34:12.011604,2017-02-17 00:34:12.011604
+336,33,Venom Dragon,cost_per_click,running,4528,,2017-02-17 00:34:12.3949,2017-02-17 00:34:12.3949
+337,33,Hell Strange,cost_per_impression,archived,4950,,2017-02-17 00:34:12.78016,2017-02-17 00:34:12.78016
+338,33,Green Firestorm X,cost_per_impression,archived,6152,,2017-02-17 00:34:13.167586,2017-02-17 00:34:13.167586
+339,33,Magnificent Aqua,cost_per_click,paused,2664,,2017-02-17 00:34:13.429008,2017-02-17 00:34:13.429008
+768,79,Cheetah,cost_per_click,paused,3739,,2017-02-17 00:36:50.524726,2017-02-17 00:36:50.524726
+769,79,Illustrious Beast,cost_per_impression,running,5845,,2017-02-17 00:36:51.008995,2017-02-17 00:36:51.008995
+770,79,The Silk XI,cost_per_impression,paused,8026,,2017-02-17 00:36:51.285032,2017-02-17 00:36:51.285032
+771,79,Rocket Raccoon the Hunter,cost_per_impression,paused,7969,,2017-02-17 00:36:51.532916,2017-02-17 00:36:51.532916
+772,79,Giant T,cost_per_impression,running,4108,,2017-02-17 00:36:51.78402,2017-02-17 00:36:51.78402
+773,79,Captain Archangel,cost_per_impression,running,4266,,2017-02-17 00:36:52.062094,2017-02-17 00:36:52.062094
+774,79,Magnificent Triplicate,cost_per_click,archived,2007,,2017-02-17 00:36:52.529726,2017-02-17 00:36:52.529726
+775,79,Violator,cost_per_click,archived,4421,,2017-02-17 00:36:52.835605,2017-02-17 00:36:52.835605
+776,79,Mephisto,cost_per_impression,archived,7918,,2017-02-17 00:36:53.075468,2017-02-17 00:36:53.075468
+777,79,Giant Trickster II,cost_per_impression,paused,2183,,2017-02-17 00:36:53.275839,2017-02-17 00:36:53.275839
+778,79,Magnificent Blink,cost_per_click,archived,2214,,2017-02-17 00:36:53.550351,2017-02-17 00:36:53.550351
+779,79,Astro Boy,cost_per_impression,running,8519,,2017-02-17 00:36:53.85167,2017-02-17 00:36:53.85167
+780,79,Darkhawk,cost_per_click,paused,6716,,2017-02-17 00:36:54.218718,2017-02-17 00:36:54.218718
+781,79,Red Cerebra,cost_per_impression,running,7296,,2017-02-17 00:36:54.65429,2017-02-17 00:36:54.65429
+861,87,Wolverine,cost_per_click,archived,1951,,2017-02-17 00:37:24.309398,2017-02-17 00:37:24.309398
+862,87,The Ripcord,cost_per_click,paused,223,,2017-02-17 00:37:24.617232,2017-02-17 00:37:24.617232
+863,87,Wondra Man,cost_per_impression,archived,8007,,2017-02-17 00:37:25.070597,2017-02-17 00:37:25.070597
+864,87,Cyborg Bomb Queen Thirteen,cost_per_click,archived,2788,,2017-02-17 00:37:25.515745,2017-02-17 00:37:25.515745
+865,87,The Leech Brain,cost_per_impression,paused,6538,,2017-02-17 00:37:25.977839,2017-02-17 00:37:25.977839
+866,87,Thanos Claw,cost_per_impression,running,3585,,2017-02-17 00:37:26.32041,2017-02-17 00:37:26.32041
+867,87,Cyborg Iron Fist III,cost_per_impression,running,3308,,2017-02-17 00:37:26.630675,2017-02-17 00:37:26.630675
+868,87,The Gambit Eyes,cost_per_click,paused,2065,,2017-02-17 00:37:26.935418,2017-02-17 00:37:26.935418
+927,94,Bloodaxe,cost_per_click,paused,1580,,2017-02-17 00:37:50.455338,2017-02-17 00:37:50.455338
+928,94,Monarch,cost_per_impression,paused,4619,,2017-02-17 00:37:50.926801,2017-02-17 00:37:50.926801
+929,94,Illustrious Punisher,cost_per_click,archived,2639,,2017-02-17 00:37:51.511632,2017-02-17 00:37:51.511632
+930,94,Dark Amazo,cost_per_impression,archived,4744,,2017-02-17 00:37:51.934329,2017-02-17 00:37:51.934329
+931,94,Century the Fated,cost_per_impression,running,1013,,2017-02-17 00:37:52.361131,2017-02-17 00:37:52.361131
+92,10,Energy X,cost_per_click,archived,4870,,2017-02-17 00:13:42.403345,2017-02-17 00:13:42.403345
+93,10,Cyborg,cost_per_click,paused,8288,,2017-02-17 00:13:50.319599,2017-02-17 00:13:50.319599
+94,10,Dark Bloodhawk Skull,cost_per_click,running,8667,,2017-02-17 00:14:05.974712,2017-02-17 00:14:05.974712
+95,10,Deadshot Eyes,cost_per_click,paused,5682,,2017-02-17 00:14:20.917478,2017-02-17 00:14:20.917478
+96,10,Wondra,cost_per_impression,paused,9868,,2017-02-17 00:14:33.85616,2017-02-17 00:14:33.85616
+350,35,Green Songbird Strange,cost_per_impression,paused,2060,,2017-02-17 00:34:16.926805,2017-02-17 00:34:16.926805
+351,35,Magnificent Groot,cost_per_click,running,5170,,2017-02-17 00:34:17.214975,2017-02-17 00:34:17.214975
+352,35,Mr Vulcan,cost_per_impression,archived,9108,,2017-02-17 00:34:17.480478,2017-02-17 00:34:17.480478
+353,35,Cerebra,cost_per_click,paused,3612,,2017-02-17 00:34:17.797486,2017-02-17 00:34:17.797486
+354,35,The Magneto Boy,cost_per_impression,running,4187,,2017-02-17 00:34:18.224843,2017-02-17 00:34:18.224843
+355,35,The Overtkill Strike,cost_per_impression,running,308,,2017-02-17 00:34:18.58949,2017-02-17 00:34:18.58949
+356,35,Rhino,cost_per_impression,archived,8104,,2017-02-17 00:34:19.006494,2017-02-17 00:34:19.006494
+357,35,Mr Forge,cost_per_impression,running,9279,,2017-02-17 00:34:19.314327,2017-02-17 00:34:19.314327
+358,35,Domino Ivy,cost_per_click,paused,2947,,2017-02-17 00:34:19.915292,2017-02-17 00:34:19.915292
+359,35,Wyatt Wingfoot,cost_per_impression,paused,8331,,2017-02-17 00:34:20.423525,2017-02-17 00:34:20.423525
+360,35,Colossus,cost_per_impression,running,4991,,2017-02-17 00:34:20.679591,2017-02-17 00:34:20.679591
+361,35,Goliath IX,cost_per_impression,running,1292,,2017-02-17 00:34:21.048918,2017-02-17 00:34:21.048918
+906,92,Triplicate the Hunter,cost_per_impression,archived,4935,,2017-02-17 00:37:42.644826,2017-02-17 00:37:42.644826
+907,92,Red Bloodwraith Wolf,cost_per_click,paused,9285,,2017-02-17 00:37:42.882185,2017-02-17 00:37:42.882185
+908,92,Fixer Strike,cost_per_impression,running,4365,,2017-02-17 00:37:43.216898,2017-02-17 00:37:43.216898
+909,92,Quill,cost_per_impression,archived,3747,,2017-02-17 00:37:43.666294,2017-02-17 00:37:43.666294
+910,92,Goku,cost_per_impression,running,7782,,2017-02-17 00:37:44.035454,2017-02-17 00:37:44.035454
+911,92,Naruto Uzumaki Thirteen,cost_per_impression,archived,1392,,2017-02-17 00:37:44.351159,2017-02-17 00:37:44.351159
+912,92,General Silverclaw,cost_per_click,paused,3544,,2017-02-17 00:37:44.759094,2017-02-17 00:37:44.759094
+913,92,Wiz Kid Woman,cost_per_impression,running,4953,,2017-02-17 00:37:45.128912,2017-02-17 00:37:45.128912
+914,92,Nova Girl,cost_per_click,paused,235,,2017-02-17 00:37:45.492136,2017-02-17 00:37:45.492136
+915,92,Cyborg Meteorite of Hearts,cost_per_impression,archived,1480,,2017-02-17 00:37:45.860148,2017-02-17 00:37:45.860148
+916,92,Martian Manhunter,cost_per_impression,archived,1798,,2017-02-17 00:37:46.362142,2017-02-17 00:37:46.362142
+478,48,Supah Sobek IX,cost_per_click,running,6428,,2017-02-17 00:35:02.745543,2017-02-17 00:35:02.745543
+479,48,Dark Quill,cost_per_click,paused,7150,,2017-02-17 00:35:03.046438,2017-02-17 00:35:03.046438
+480,48,Bloodhawk,cost_per_impression,archived,324,,2017-02-17 00:35:03.26388,2017-02-17 00:35:03.26388
+481,48,Illustrious Firestorm Skull,cost_per_click,archived,1110,,2017-02-17 00:35:03.528832,2017-02-17 00:35:03.528832
+482,48,Cyborg Silverclaw IX,cost_per_click,archived,6191,,2017-02-17 00:35:03.744752,2017-02-17 00:35:03.744752
+483,48,Supah Firestorm Thirteen,cost_per_click,running,1092,,2017-02-17 00:35:04.024039,2017-02-17 00:35:04.024039
+484,48,Supah Armor,cost_per_impression,paused,1613,,2017-02-17 00:35:04.252931,2017-02-17 00:35:04.252931
+485,48,Tigra,cost_per_impression,archived,1126,,2017-02-17 00:35:04.500507,2017-02-17 00:35:04.500507
+486,48,Doctor Ripcord Woman,cost_per_impression,archived,6845,,2017-02-17 00:35:04.938092,2017-02-17 00:35:04.938092
+487,48,Mr Frenzy Claw,cost_per_impression,running,1538,,2017-02-17 00:35:05.3929,2017-02-17 00:35:05.3929
+488,48,Spawn,cost_per_impression,paused,6077,,2017-02-17 00:35:05.745891,2017-02-17 00:35:05.745891
+489,48,Magnificent Wiz Kid the Fated,cost_per_impression,archived,5258,,2017-02-17 00:35:06.137755,2017-02-17 00:35:06.137755
+490,48,Bizarro,cost_per_click,paused,6734,,2017-02-17 00:35:06.512213,2017-02-17 00:35:06.512213
+491,48,Mera,cost_per_impression,running,9456,,2017-02-17 00:35:06.888228,2017-02-17 00:35:06.888228
+36,5,Binary,cost_per_impression,paused,1810,,2017-02-17 00:01:29.554925,2017-02-17 00:01:29.554925
+37,5,Wondra,cost_per_impression,running,8366,,2017-02-17 00:01:39.142083,2017-02-17 00:01:39.142083
+38,5,Feral,cost_per_impression,paused,614,,2017-02-17 00:01:49.645394,2017-02-17 00:01:49.645394
+39,5,Mr Cyclops I,cost_per_click,paused,3061,,2017-02-17 00:02:04.407064,2017-02-17 00:02:04.407064
+40,5,Carnage,cost_per_impression,paused,2150,,2017-02-17 00:02:14.432452,2017-02-17 00:02:14.432452
+41,5,Agent Hancock,cost_per_impression,running,3498,,2017-02-17 00:02:30.762992,2017-02-17 00:02:30.762992
+42,5,Sasquatch Eyes,cost_per_impression,archived,2914,,2017-02-17 00:02:38.227052,2017-02-17 00:02:38.227052
+43,5,Cyborg,cost_per_impression,running,4099,,2017-02-17 00:02:54.534312,2017-02-17 00:02:54.534312
+44,5,Cyborg Two-Face Machine,cost_per_click,archived,2043,,2017-02-17 00:03:04.611245,2017-02-17 00:03:04.611245
+45,5,Quicksilver,cost_per_click,paused,6332,,2017-02-17 00:03:15.396107,2017-02-17 00:03:15.396107
+46,5,Cyborg Misfit II,cost_per_impression,archived,2827,,2017-02-17 00:03:33.523753,2017-02-17 00:03:33.523753
+47,5,Ultra Namor,cost_per_impression,paused,2777,,2017-02-17 00:03:47.503712,2017-02-17 00:03:47.503712
+543,53,Supah Domino,cost_per_click,archived,5346,,2017-02-17 00:35:24.532745,2017-02-17 00:35:24.532745
+544,53,Gardner Fist,cost_per_impression,paused,4529,,2017-02-17 00:35:24.900747,2017-02-17 00:35:24.900747
+545,53,Box,cost_per_click,paused,5630,,2017-02-17 00:35:25.18343,2017-02-17 00:35:25.18343
+546,53,Dark Vulcan,cost_per_impression,archived,5200,,2017-02-17 00:35:25.527134,2017-02-17 00:35:25.527134
+547,53,Rocket Raccoon,cost_per_impression,archived,2672,,2017-02-17 00:35:25.81126,2017-02-17 00:35:25.81126
+548,53,Red Morph,cost_per_click,archived,3691,,2017-02-17 00:35:26.184859,2017-02-17 00:35:26.184859
+549,53,Namor Boy,cost_per_impression,running,4736,,2017-02-17 00:35:26.5507,2017-02-17 00:35:26.5507
+507,50,Cyborg Redeemer,cost_per_click,archived,7044,,2017-02-17 00:35:12.45591,2017-02-17 00:35:12.45591
+508,50,Winter Soldier,cost_per_impression,paused,6051,,2017-02-17 00:35:12.765961,2017-02-17 00:35:12.765961
+509,50,Ultra Blob,cost_per_impression,paused,1297,,2017-02-17 00:35:13.122494,2017-02-17 00:35:13.122494
+510,50,Green Shatterstar Woman,cost_per_click,archived,1974,,2017-02-17 00:35:13.406386,2017-02-17 00:35:13.406386
+511,50,Ultra Osiris,cost_per_click,paused,7925,,2017-02-17 00:35:13.617885,2017-02-17 00:35:13.617885
+512,50,Sasquatch,cost_per_click,archived,8800,,2017-02-17 00:35:13.848286,2017-02-17 00:35:13.848286
+513,50,Jolt,cost_per_click,archived,3946,,2017-02-17 00:35:14.174723,2017-02-17 00:35:14.174723
+514,50,Mogo XI,cost_per_click,paused,4030,,2017-02-17 00:35:14.505985,2017-02-17 00:35:14.505985
+515,50,Klaw,cost_per_impression,paused,9568,,2017-02-17 00:35:14.807607,2017-02-17 00:35:14.807607
+516,50,Dark Granny Goodness Girl,cost_per_click,archived,885,,2017-02-17 00:35:15.314353,2017-02-17 00:35:15.314353
+517,50,General Rachel Pirzad Man,cost_per_click,paused,5992,,2017-02-17 00:35:15.639551,2017-02-17 00:35:15.639551
+518,50,Dark Rorschach III,cost_per_click,paused,7492,,2017-02-17 00:35:15.97813,2017-02-17 00:35:15.97813
+519,50,Blizzard,cost_per_click,archived,4100,,2017-02-17 00:35:16.206135,2017-02-17 00:35:16.206135
+520,50,Arachne XI,cost_per_impression,archived,2710,,2017-02-17 00:35:16.464,2017-02-17 00:35:16.464
+747,77,Red Gorilla Grodd,cost_per_click,paused,3407,,2017-02-17 00:36:42.157643,2017-02-17 00:36:42.157643
+748,77,Overtkill Lord,cost_per_impression,running,8488,,2017-02-17 00:36:42.389081,2017-02-17 00:36:42.389081
+749,77,Ultra Frenzy XI,cost_per_click,running,9165,,2017-02-17 00:36:42.765481,2017-02-17 00:36:42.765481
+750,77,Green Predator,cost_per_click,running,2700,,2017-02-17 00:36:43.114095,2017-02-17 00:36:43.114095
+751,77,Snowbird,cost_per_impression,archived,6560,,2017-02-17 00:36:43.610629,2017-02-17 00:36:43.610629
+752,77,Red Corsair,cost_per_click,archived,6865,,2017-02-17 00:36:43.848604,2017-02-17 00:36:43.848604
+753,77,Giant Copycat Fist,cost_per_impression,archived,265,,2017-02-17 00:36:44.161063,2017-02-17 00:36:44.161063
+754,77,Ammo Man,cost_per_click,running,3739,,2017-02-17 00:36:44.389856,2017-02-17 00:36:44.389856
+755,77,Skaar,cost_per_click,running,9097,,2017-02-17 00:36:44.823063,2017-02-17 00:36:44.823063
+756,77,General Venom Knight,cost_per_click,archived,8962,,2017-02-17 00:36:45.387091,2017-02-17 00:36:45.387091
+757,77,Scorpion the Fated,cost_per_impression,running,4564,,2017-02-17 00:36:45.937026,2017-02-17 00:36:45.937026
+758,77,She-Thing Boy,cost_per_impression,archived,1849,,2017-02-17 00:36:46.398835,2017-02-17 00:36:46.398835
+24,4,Nova,cost_per_impression,paused,1748,,2017-02-16 23:58:40.872401,2017-02-16 23:58:40.872401
+25,4,Granny Goodness Strike,cost_per_impression,running,4978,,2017-02-16 23:58:54.420518,2017-02-16 23:58:54.420518
+26,4,Green Magog Ivy,cost_per_click,paused,6861,,2017-02-16 23:59:08.746704,2017-02-16 23:59:08.746704
+27,4,Agent Box,cost_per_impression,archived,2670,,2017-02-16 23:59:16.047339,2017-02-16 23:59:16.047339
+28,4,Agent Wolverine Boy,cost_per_impression,paused,2454,,2017-02-16 23:59:27.72454,2017-02-16 23:59:27.72454
+29,4,General Carnage Strike,cost_per_click,archived,4030,,2017-02-16 23:59:45.061963,2017-02-16 23:59:45.061963
+30,4,Agent Nathan Petrelli,cost_per_click,archived,2707,,2017-02-17 00:00:05.5341,2017-02-17 00:00:05.5341
+31,4,Giant Renata Soliz,cost_per_click,paused,7075,,2017-02-17 00:00:19.893833,2017-02-17 00:00:19.893833
+32,4,Metamorpho Strange,cost_per_impression,archived,3129,,2017-02-17 00:00:34.147382,2017-02-17 00:00:34.147382
+33,4,Giant Boom Boom Eyes,cost_per_click,archived,5969,,2017-02-17 00:00:45.646328,2017-02-17 00:00:45.646328
+34,4,Ymir,cost_per_click,paused,9654,,2017-02-17 00:00:59.651623,2017-02-17 00:00:59.651623
+35,4,Ultron,cost_per_impression,paused,530,,2017-02-17 00:01:19.722926,2017-02-17 00:01:19.722926
+61,7,The Firestar I,cost_per_impression,archived,4956,,2017-02-17 00:07:03.598535,2017-02-17 00:07:03.598535
+62,7,Spectre,cost_per_impression,running,5897,,2017-02-17 00:07:17.599332,2017-02-17 00:07:17.599332
+63,7,Captain Dormammu,cost_per_impression,paused,5857,,2017-02-17 00:07:30.214336,2017-02-17 00:07:30.214336
+64,7,Chameleon Knight,cost_per_impression,paused,3191,,2017-02-17 00:07:42.017434,2017-02-17 00:07:42.017434
+65,7,Ultra Jack-Jack Man,cost_per_impression,running,9164,,2017-02-17 00:07:57.528186,2017-02-17 00:07:57.528186
+66,7,Skaar Brain,cost_per_click,running,9037,,2017-02-17 00:08:13.544257,2017-02-17 00:08:13.544257
+67,7,Violator,cost_per_click,archived,1330,,2017-02-17 00:08:28.712704,2017-02-17 00:08:28.712704
+68,7,The Wolverine Claw,cost_per_click,archived,920,,2017-02-17 00:08:43.384689,2017-02-17 00:08:43.384689
+69,7,Gamora,cost_per_click,paused,8245,,2017-02-17 00:09:01.694776,2017-02-17 00:09:01.694776
+70,7,Supah Guardian Woman,cost_per_click,archived,1276,,2017-02-17 00:09:15.246679,2017-02-17 00:09:15.246679
+71,7,Supah Chuck Norris,cost_per_impression,paused,6815,,2017-02-17 00:09:29.041978,2017-02-17 00:09:29.041978
+72,7,Cyborg Aqualad,cost_per_impression,archived,9582,,2017-02-17 00:09:44.83362,2017-02-17 00:09:44.83362
+133,14,Namorita,cost_per_click,archived,869,,2017-02-17 00:21:59.240053,2017-02-17 00:21:59.240053
+134,14,The Triplicate,cost_per_impression,paused,5548,,2017-02-17 00:22:11.66139,2017-02-17 00:22:11.66139
+135,14,Mr Mimic Lord,cost_per_click,archived,1749,,2017-02-17 00:22:24.136749,2017-02-17 00:22:24.136749
+136,14,Leech,cost_per_impression,running,4123,,2017-02-17 00:22:35.423596,2017-02-17 00:22:35.423596
+137,14,Meltdown Girl,cost_per_impression,archived,1202,,2017-02-17 00:22:50.436509,2017-02-17 00:22:50.436509
+138,14,Doctor Two-Face,cost_per_impression,archived,5899,,2017-02-17 00:23:03.620922,2017-02-17 00:23:03.620922
+139,14,Omniscient Knight,cost_per_impression,running,1180,,2017-02-17 00:23:12.858272,2017-02-17 00:23:12.858272
+140,14,General Shang-Chi,cost_per_impression,archived,1016,,2017-02-17 00:23:30.884896,2017-02-17 00:23:30.884896
+141,14,Darkhawk,cost_per_impression,archived,9306,,2017-02-17 00:23:37.51479,2017-02-17 00:23:37.51479
+550,54,Penguin,cost_per_click,running,4611,,2017-02-17 00:35:26.900271,2017-02-17 00:35:26.900271
+551,54,Thunderbird II,cost_per_impression,paused,9967,,2017-02-17 00:35:27.201975,2017-02-17 00:35:27.201975
+552,54,Bird Strike,cost_per_impression,archived,4621,,2017-02-17 00:35:27.567874,2017-02-17 00:35:27.567874
+553,54,Question,cost_per_impression,paused,8494,,2017-02-17 00:35:27.817834,2017-02-17 00:35:27.817834
+554,54,Captain Sif Fist,cost_per_impression,archived,9815,,2017-02-17 00:35:28.184507,2017-02-17 00:35:28.184507
+555,54,General Joker the Hunter,cost_per_click,archived,9381,,2017-02-17 00:35:28.568661,2017-02-17 00:35:28.568661
+556,54,Moon Knight XI,cost_per_impression,running,758,,2017-02-17 00:35:28.819553,2017-02-17 00:35:28.819553
+615,61,Cottonmouth,cost_per_impression,running,866,,2017-02-17 00:35:50.837953,2017-02-17 00:35:50.837953
+616,61,Elektra Ivy,cost_per_impression,archived,9568,,2017-02-17 00:35:51.233618,2017-02-17 00:35:51.233618
+617,61,General Demogoblin,cost_per_impression,running,528,,2017-02-17 00:35:51.591445,2017-02-17 00:35:51.591445
+618,61,The Darkstar Claw,cost_per_click,archived,9250,,2017-02-17 00:35:51.821774,2017-02-17 00:35:51.821774
+619,61,Pyro,cost_per_impression,paused,2766,,2017-02-17 00:35:52.117895,2017-02-17 00:35:52.117895
+620,61,Ultra Spawn,cost_per_impression,archived,7437,,2017-02-17 00:35:52.385067,2017-02-17 00:35:52.385067
+621,61,Shocker Knight,cost_per_click,paused,8980,,2017-02-17 00:35:52.783964,2017-02-17 00:35:52.783964
+622,61,Mr Naruto Uzumaki,cost_per_impression,running,8188,,2017-02-17 00:35:53.118746,2017-02-17 00:35:53.118746
+917,93,Silk,cost_per_click,archived,8884,,2017-02-17 00:37:46.912154,2017-02-17 00:37:46.912154
+918,93,Giant Phoenix,cost_per_impression,archived,4718,,2017-02-17 00:37:47.249986,2017-02-17 00:37:47.249986
+919,93,Doctor Metallo,cost_per_impression,archived,6418,,2017-02-17 00:37:47.53413,2017-02-17 00:37:47.53413
+920,93,Gambit Dragon,cost_per_click,running,8051,,2017-02-17 00:37:47.830613,2017-02-17 00:37:47.830613
+921,93,Walrus Woman,cost_per_impression,running,9682,,2017-02-17 00:37:48.222521,2017-02-17 00:37:48.222521
+922,93,Agent Omniscient II,cost_per_impression,archived,5303,,2017-02-17 00:37:48.62509,2017-02-17 00:37:48.62509
+923,93,Penance Girl,cost_per_impression,running,1861,,2017-02-17 00:37:48.901462,2017-02-17 00:37:48.901462
+924,93,Giant Spyke Thirteen,cost_per_click,paused,6786,,2017-02-17 00:37:49.345059,2017-02-17 00:37:49.345059
+925,93,Naruto Uzumaki,cost_per_impression,archived,7970,,2017-02-17 00:37:49.608795,2017-02-17 00:37:49.608795
+926,93,Green Namorita,cost_per_impression,paused,585,,2017-02-17 00:37:49.867403,2017-02-17 00:37:49.867403
+160,17,Mandarin,cost_per_impression,archived,4387,,2017-02-17 00:27:28.3657,2017-02-17 00:27:28.3657
+161,17,Evilhawk IX,cost_per_impression,archived,7847,,2017-02-17 00:27:38.533213,2017-02-17 00:27:38.533213
+162,17,Cyborg Renata Soliz,cost_per_click,paused,6436,,2017-02-17 00:27:51.315671,2017-02-17 00:27:51.315671
+163,17,Stardust,cost_per_click,paused,2913,,2017-02-17 00:28:05.017273,2017-02-17 00:28:05.017273
+164,17,Magnificent Dormammu IX,cost_per_click,running,6439,,2017-02-17 00:28:18.102918,2017-02-17 00:28:18.102918
+165,17,Phantom,cost_per_impression,archived,3047,,2017-02-17 00:28:26.073643,2017-02-17 00:28:26.073643
+166,17,Agent Sage,cost_per_impression,archived,1553,,2017-02-17 00:28:35.682222,2017-02-17 00:28:35.682222
+167,17,General ERG Fist,cost_per_click,paused,8049,,2017-02-17 00:28:47.251243,2017-02-17 00:28:47.251243
+168,17,Annihilus Brain,cost_per_click,paused,9143,,2017-02-17 00:28:59.527764,2017-02-17 00:28:59.527764
+169,17,Phoenix,cost_per_click,running,2358,,2017-02-17 00:29:09.601331,2017-02-17 00:29:09.601331
+170,17,Cyborg Skaar Strange,cost_per_click,running,5187,,2017-02-17 00:29:19.699841,2017-02-17 00:29:19.699841
+521,51,Doctor Binary Strike,cost_per_impression,running,2118,,2017-02-17 00:35:17.070537,2017-02-17 00:35:17.070537
+522,51,Venom,cost_per_impression,paused,2232,,2017-02-17 00:35:17.386576,2017-02-17 00:35:17.386576
+523,51,Agent Changeling,cost_per_click,running,2055,,2017-02-17 00:35:17.740356,2017-02-17 00:35:17.740356
+524,51,Dark Question X,cost_per_impression,paused,955,,2017-02-17 00:35:17.968668,2017-02-17 00:35:17.968668
+525,51,Magus Strange,cost_per_click,running,9685,,2017-02-17 00:35:18.190683,2017-02-17 00:35:18.190683
+526,51,Red Tiger Shark,cost_per_impression,archived,1266,,2017-02-17 00:35:18.414528,2017-02-17 00:35:18.414528
+527,51,Exodus,cost_per_impression,archived,4672,,2017-02-17 00:35:18.832937,2017-02-17 00:35:18.832937
+528,51,Cogliostro,cost_per_impression,running,9410,,2017-02-17 00:35:19.182124,2017-02-17 00:35:19.182124
+529,51,Magnificent Ghost,cost_per_impression,archived,1685,,2017-02-17 00:35:19.515071,2017-02-17 00:35:19.515071
+530,51,Magnificent Penance the Fated,cost_per_impression,paused,8349,,2017-02-17 00:35:19.765617,2017-02-17 00:35:19.765617
+531,51,Giant Bumblebee XI,cost_per_click,running,3061,,2017-02-17 00:35:19.982734,2017-02-17 00:35:19.982734
+532,51,Darkstar,cost_per_impression,running,8642,,2017-02-17 00:35:20.392342,2017-02-17 00:35:20.392342
+533,51,Captain Rambo,cost_per_impression,running,9194,,2017-02-17 00:35:20.666188,2017-02-17 00:35:20.666188
+534,51,Angel,cost_per_click,paused,1636,,2017-02-17 00:35:21.008778,2017-02-17 00:35:21.008778
+153,16,Wasp Skull,cost_per_click,running,2614,,2017-02-17 00:26:06.352166,2017-02-17 00:26:06.352166
+154,16,Giant Arachne,cost_per_impression,paused,4062,,2017-02-17 00:26:18.534462,2017-02-17 00:26:18.534462
+155,16,Dark Sobek,cost_per_click,paused,2761,,2017-02-17 00:26:28.55808,2017-02-17 00:26:28.55808
+156,16,Captain Star-Lord Lord,cost_per_impression,paused,5828,,2017-02-17 00:26:39.390956,2017-02-17 00:26:39.390956
+157,16,Magnificent Guardian Wolf,cost_per_click,archived,5654,,2017-02-17 00:26:52.412083,2017-02-17 00:26:52.412083
+158,16,Copycat Lord,cost_per_impression,paused,9543,,2017-02-17 00:27:10.09852,2017-02-17 00:27:10.09852
+159,16,Boom Boom Brain,cost_per_click,running,7995,,2017-02-17 00:27:21.400531,2017-02-17 00:27:21.400531
+937,96,Giant Cogliostro Girl,cost_per_click,paused,8620,,2017-02-17 00:37:54.847784,2017-02-17 00:37:54.847784
+938,96,Warpath Wolf,cost_per_impression,running,1949,,2017-02-17 00:37:55.069296,2017-02-17 00:37:55.069296
+939,96,Agent Tempest of Hearts,cost_per_click,archived,130,,2017-02-17 00:37:55.454831,2017-02-17 00:37:55.454831
+940,96,Red Penance Strange,cost_per_impression,paused,3858,,2017-02-17 00:37:55.967427,2017-02-17 00:37:55.967427
+941,96,Beetle Thirteen,cost_per_click,archived,4249,,2017-02-17 00:37:56.39492,2017-02-17 00:37:56.39492
+838,85,Firestar IX,cost_per_click,running,6232,,2017-02-17 00:37:15.512692,2017-02-17 00:37:15.512692
+839,85,Animal,cost_per_impression,running,8958,,2017-02-17 00:37:15.797307,2017-02-17 00:37:15.797307
+840,85,Dark Naruto Uzumaki,cost_per_impression,archived,5717,,2017-02-17 00:37:16.422935,2017-02-17 00:37:16.422935
+841,85,Mr Sasquatch,cost_per_impression,paused,3529,,2017-02-17 00:37:16.776165,2017-02-17 00:37:16.776165
+842,85,Chameleon Strike,cost_per_impression,archived,794,,2017-02-17 00:37:17.223433,2017-02-17 00:37:17.223433
+843,85,Mockingbird,cost_per_click,running,7553,,2017-02-17 00:37:17.549183,2017-02-17 00:37:17.549183
+844,85,Box,cost_per_impression,running,4882,,2017-02-17 00:37:17.809721,2017-02-17 00:37:17.809721
+845,85,Iron Fist,cost_per_click,archived,2079,,2017-02-17 00:37:18.191748,2017-02-17 00:37:18.191748
+949,98,Thundra Fist,cost_per_click,archived,3992,,2017-02-17 00:37:59.298948,2017-02-17 00:37:59.298948
+950,98,Hawk,cost_per_click,archived,2971,,2017-02-17 00:37:59.570718,2017-02-17 00:37:59.570718
+951,98,Captain Hollow Claw,cost_per_click,running,8205,,2017-02-17 00:38:00.014097,2017-02-17 00:38:00.014097
+952,98,Mr Maya Herrera III,cost_per_click,running,8678,,2017-02-17 00:38:00.239048,2017-02-17 00:38:00.239048
+953,98,Captain Mimic Eyes,cost_per_impression,paused,7449,,2017-02-17 00:38:00.538356,2017-02-17 00:38:00.538356
+954,98,Mr Wolverine of Hearts,cost_per_impression,paused,3186,,2017-02-17 00:38:00.839895,2017-02-17 00:38:00.839895
+955,98,Cyclops,cost_per_click,running,3339,,2017-02-17 00:38:01.096581,2017-02-17 00:38:01.096581
+956,98,Shriek,cost_per_click,paused,9826,,2017-02-17 00:38:01.430015,2017-02-17 00:38:01.430015
+957,98,Bumblebee III,cost_per_impression,running,1569,,2017-02-17 00:38:01.721625,2017-02-17 00:38:01.721625
+958,98,Red Speedball,cost_per_click,archived,8255,,2017-02-17 00:38:02.039288,2017-02-17 00:38:02.039288
+959,98,The Starfire,cost_per_click,running,7690,,2017-02-17 00:38:02.427228,2017-02-17 00:38:02.427228
+960,98,Cyborg,cost_per_click,archived,8808,,2017-02-17 00:38:02.747233,2017-02-17 00:38:02.747233
+961,98,Mogo Machine,cost_per_click,archived,8594,,2017-02-17 00:38:02.940153,2017-02-17 00:38:02.940153
+962,98,Cyborg Doppelganger Thirteen,cost_per_impression,running,9220,,2017-02-17 00:38:03.307941,2017-02-17 00:38:03.307941
+362,36,Deathlok X,cost_per_click,paused,9535,,2017-02-17 00:34:21.512033,2017-02-17 00:34:21.512033
+363,36,Red Triton XI,cost_per_impression,paused,3855,,2017-02-17 00:34:21.900567,2017-02-17 00:34:21.900567
+364,36,Naruto Uzumaki,cost_per_impression,archived,6374,,2017-02-17 00:34:22.281743,2017-02-17 00:34:22.281743
+365,36,Doomsday Machine,cost_per_click,paused,8959,,2017-02-17 00:34:22.553777,2017-02-17 00:34:22.553777
+366,36,Mr Longshot,cost_per_impression,paused,424,,2017-02-17 00:34:22.818366,2017-02-17 00:34:22.818366
+367,36,Ariel the Fated,cost_per_impression,archived,5692,,2017-02-17 00:34:23.149687,2017-02-17 00:34:23.149687
+368,36,Chromos,cost_per_impression,archived,6056,,2017-02-17 00:34:23.485656,2017-02-17 00:34:23.485656
+369,36,Forge Man,cost_per_impression,running,5127,,2017-02-17 00:34:23.815521,2017-02-17 00:34:23.815521
+824,84,Captain Valkyrie Woman,cost_per_impression,paused,5713,,2017-02-17 00:37:10.687954,2017-02-17 00:37:10.687954
+825,84,Boom Boom,cost_per_impression,archived,4539,,2017-02-17 00:37:11.11505,2017-02-17 00:37:11.11505
+826,84,Moon Knight,cost_per_impression,archived,3552,,2017-02-17 00:37:11.485342,2017-02-17 00:37:11.485342
+827,84,Sinestro,cost_per_click,paused,5088,,2017-02-17 00:37:11.815364,2017-02-17 00:37:11.815364
+828,84,Chameleon II,cost_per_impression,running,9107,,2017-02-17 00:37:12.089649,2017-02-17 00:37:12.089649
+829,84,Doctor Star-Lord Lord,cost_per_impression,running,6170,,2017-02-17 00:37:12.365489,2017-02-17 00:37:12.365489
+830,84,Mr Rhino I,cost_per_click,running,757,,2017-02-17 00:37:12.67503,2017-02-17 00:37:12.67503
+831,84,Jigsaw III,cost_per_impression,running,3511,,2017-02-17 00:37:12.932922,2017-02-17 00:37:12.932922
+832,84,Agent Darkhawk,cost_per_click,running,6366,,2017-02-17 00:37:13.131176,2017-02-17 00:37:13.131176
+833,84,General Faora,cost_per_impression,paused,1841,,2017-02-17 00:37:13.506615,2017-02-17 00:37:13.506615
+834,84,Doctor Crystal Lord,cost_per_impression,running,674,,2017-02-17 00:37:14.022347,2017-02-17 00:37:14.022347
+835,84,Heat Wave Brain,cost_per_impression,running,9465,,2017-02-17 00:37:14.440305,2017-02-17 00:37:14.440305
+836,84,Doctor Lobo,cost_per_impression,running,3769,,2017-02-17 00:37:14.756408,2017-02-17 00:37:14.756408
+837,84,Sunspot Girl,cost_per_impression,archived,1284,,2017-02-17 00:37:15.033775,2017-02-17 00:37:15.033775
+877,89,General Snowbird,cost_per_impression,paused,2409,,2017-02-17 00:37:30.117876,2017-02-17 00:37:30.117876
+878,89,Magnificent Jolt,cost_per_impression,paused,7846,,2017-02-17 00:37:30.505556,2017-02-17 00:37:30.505556
+879,89,Yellow Skull,cost_per_impression,archived,6359,,2017-02-17 00:37:30.847443,2017-02-17 00:37:30.847443
+880,89,Captain Bantam Fist,cost_per_click,paused,7639,,2017-02-17 00:37:31.269576,2017-02-17 00:37:31.269576
+881,89,Kool-Aid Man,cost_per_click,paused,1790,,2017-02-17 00:37:31.811741,2017-02-17 00:37:31.811741
+882,89,Multiple of Hearts,cost_per_click,archived,5634,,2017-02-17 00:37:32.153008,2017-02-17 00:37:32.153008
+883,89,Quicksilver,cost_per_click,paused,2505,,2017-02-17 00:37:32.636936,2017-02-17 00:37:32.636936
+884,89,Demogoblin,cost_per_click,paused,5877,,2017-02-17 00:37:32.852107,2017-02-17 00:37:32.852107
+885,89,Brother Voodoo Strange,cost_per_impression,running,9866,,2017-02-17 00:37:33.106144,2017-02-17 00:37:33.106144
+886,89,Warlock Man,cost_per_impression,running,7763,,2017-02-17 00:37:33.509961,2017-02-17 00:37:33.509961
+887,89,Cyborg Arsenal Claw,cost_per_impression,running,4772,,2017-02-17 00:37:33.977334,2017-02-17 00:37:33.977334
+888,89,Goblin Queen the Hunter,cost_per_impression,archived,2298,,2017-02-17 00:37:34.427637,2017-02-17 00:37:34.427637
+186,19,Match,cost_per_click,paused,6679,,2017-02-17 00:32:55.181572,2017-02-17 00:32:55.181572
+187,19,Doctor Silk,cost_per_impression,archived,3998,,2017-02-17 00:33:02.101021,2017-02-17 00:33:02.101021
+188,19,Giant Meteorite,cost_per_impression,paused,8872,,2017-02-17 00:33:08.023045,2017-02-17 00:33:08.023045
+557,55,Metron IX,cost_per_click,running,3658,,2017-02-17 00:35:29.284805,2017-02-17 00:35:29.284805
+558,55,Hollow,cost_per_impression,running,4605,,2017-02-17 00:35:29.720938,2017-02-17 00:35:29.720938
+559,55,Yellowjacket,cost_per_click,running,5263,,2017-02-17 00:35:30.201959,2017-02-17 00:35:30.201959
+560,55,Mystique,cost_per_impression,running,2435,,2017-02-17 00:35:30.643578,2017-02-17 00:35:30.643578
+561,55,Dark Fixer,cost_per_impression,paused,3556,,2017-02-17 00:35:30.960523,2017-02-17 00:35:30.960523
+638,64,Annihilus Spirit,cost_per_click,archived,4942,,2017-02-17 00:35:58.580864,2017-02-17 00:35:58.580864
+639,64,Iron Fist,cost_per_impression,running,2434,,2017-02-17 00:35:58.880584,2017-02-17 00:35:58.880584
+640,64,Supah Psylocke X,cost_per_click,running,424,,2017-02-17 00:35:59.130365,2017-02-17 00:35:59.130365
+641,64,The Colin Wagner,cost_per_impression,paused,8148,,2017-02-17 00:35:59.569547,2017-02-17 00:35:59.569547
+642,64,Captain Darkseid,cost_per_impression,archived,1425,,2017-02-17 00:35:59.902738,2017-02-17 00:35:59.902738
+643,64,Blob Woman,cost_per_click,paused,4173,,2017-02-17 00:36:00.261197,2017-02-17 00:36:00.261197
+370,37,Ultra Klaw,cost_per_click,archived,3376,,2017-02-17 00:34:24.363146,2017-02-17 00:34:24.363146
+371,37,Red Arachne,cost_per_click,archived,3636,,2017-02-17 00:34:24.674395,2017-02-17 00:34:24.674395
+372,37,Impulse,cost_per_click,paused,4561,,2017-02-17 00:34:24.990897,2017-02-17 00:34:24.990897
+373,37,Dark Arclight Knight,cost_per_impression,running,1340,,2017-02-17 00:34:25.400114,2017-02-17 00:34:25.400114
+374,37,Star-Lord,cost_per_impression,archived,3170,,2017-02-17 00:34:25.632438,2017-02-17 00:34:25.632438
+375,37,Flash,cost_per_impression,paused,6461,,2017-02-17 00:34:26.132883,2017-02-17 00:34:26.132883
+376,37,Cyborg Vanisher,cost_per_click,archived,9887,,2017-02-17 00:34:26.365931,2017-02-17 00:34:26.365931
+377,37,Booster Gold,cost_per_click,paused,5017,,2017-02-17 00:34:26.67446,2017-02-17 00:34:26.67446
+378,37,Ultra Archangel II,cost_per_impression,running,5739,,2017-02-17 00:34:26.899488,2017-02-17 00:34:26.899488
+379,37,Osiris,cost_per_impression,archived,172,,2017-02-17 00:34:27.133118,2017-02-17 00:34:27.133118
+380,37,Toxin,cost_per_impression,archived,7371,,2017-02-17 00:34:27.532603,2017-02-17 00:34:27.532603
+381,37,Yellow Girl,cost_per_impression,paused,6962,,2017-02-17 00:34:27.824945,2017-02-17 00:34:27.824945
+401,40,Chromos X,cost_per_click,paused,780,,2017-02-17 00:34:34.863827,2017-02-17 00:34:34.863827
+402,40,Mogo,cost_per_click,paused,9428,,2017-02-17 00:34:35.276871,2017-02-17 00:34:35.276871
+403,40,Bolt,cost_per_impression,running,1638,,2017-02-17 00:34:35.602054,2017-02-17 00:34:35.602054
+404,40,Cy-Gor,cost_per_impression,archived,1570,,2017-02-17 00:34:35.885152,2017-02-17 00:34:35.885152
+405,40,Supah Hope Summers Machine,cost_per_click,archived,7830,,2017-02-17 00:34:36.161022,2017-02-17 00:34:36.161022
+406,40,Giant Blade Skull,cost_per_impression,archived,1810,,2017-02-17 00:34:36.419571,2017-02-17 00:34:36.419571
+407,40,Shriek,cost_per_click,paused,9573,,2017-02-17 00:34:36.794297,2017-02-17 00:34:36.794297
+408,40,Dagger Ivy,cost_per_click,archived,9361,,2017-02-17 00:34:37.119084,2017-02-17 00:34:37.119084
+409,40,Amazo,cost_per_click,paused,4280,,2017-02-17 00:34:37.511323,2017-02-17 00:34:37.511323
+410,40,Goliath,cost_per_impression,running,8829,,2017-02-17 00:34:38.463684,2017-02-17 00:34:38.463684
+411,40,Cyborg Cogliostro,cost_per_impression,running,9474,,2017-02-17 00:34:38.813859,2017-02-17 00:34:38.813859
+412,40,Green Thundra Claw,cost_per_impression,archived,5128,,2017-02-17 00:34:39.097165,2017-02-17 00:34:39.097165
+413,40,The Aztar,cost_per_impression,paused,4390,,2017-02-17 00:34:39.430145,2017-02-17 00:34:39.430145
+414,40,Colin Wagner,cost_per_click,archived,5734,,2017-02-17 00:34:39.704448,2017-02-17 00:34:39.704448
+415,40,Bishop,cost_per_click,running,3915,,2017-02-17 00:34:40.447426,2017-02-17 00:34:40.447426
+446,45,Ink Dragon,cost_per_click,paused,3523,,2017-02-17 00:34:51.758716,2017-02-17 00:34:51.758716
+447,45,Astro Boy Boy,cost_per_click,paused,1778,,2017-02-17 00:34:51.958287,2017-02-17 00:34:51.958287
+448,45,Abomination,cost_per_impression,running,8500,,2017-02-17 00:34:52.260475,2017-02-17 00:34:52.260475
+449,45,The Niki Sanders Machine,cost_per_click,archived,4175,,2017-02-17 00:34:52.674858,2017-02-17 00:34:52.674858
+450,45,Ultra Winter Soldier Strange,cost_per_impression,running,8039,,2017-02-17 00:34:53.010432,2017-02-17 00:34:53.010432
+451,45,Supah Winter Soldier Dragon,cost_per_impression,running,5325,,2017-02-17 00:34:53.385176,2017-02-17 00:34:53.385176
+452,45,Venom the Fated,cost_per_impression,paused,2862,,2017-02-17 00:34:53.643288,2017-02-17 00:34:53.643288
+453,45,The Darkside,cost_per_impression,running,5391,,2017-02-17 00:34:53.930669,2017-02-17 00:34:53.930669
+454,45,Magnificent Binary,cost_per_impression,running,9734,,2017-02-17 00:34:54.234996,2017-02-17 00:34:54.234996
+644,65,Green Cheetah the Fated,cost_per_impression,archived,3102,,2017-02-17 00:36:00.815093,2017-02-17 00:36:00.815093
+645,65,Magnificent Metron,cost_per_impression,paused,8722,,2017-02-17 00:36:01.061426,2017-02-17 00:36:01.061426
+646,65,Silverclaw the Hunter,cost_per_click,paused,5466,,2017-02-17 00:36:01.40316,2017-02-17 00:36:01.40316
+647,65,Luna,cost_per_impression,paused,2315,,2017-02-17 00:36:01.711371,2017-02-17 00:36:01.711371
+648,65,Phantom XI,cost_per_impression,archived,7633,,2017-02-17 00:36:02.094347,2017-02-17 00:36:02.094347
+649,65,Winter Soldier Dragon,cost_per_impression,running,5081,,2017-02-17 00:36:02.480138,2017-02-17 00:36:02.480138
+650,65,Daredevil Strike,cost_per_click,running,2688,,2017-02-17 00:36:03.294191,2017-02-17 00:36:03.294191
+651,65,Vanisher Strange,cost_per_click,running,7824,,2017-02-17 00:36:03.904186,2017-02-17 00:36:03.904186
+652,65,Fixer,cost_per_impression,running,9855,,2017-02-17 00:36:04.295416,2017-02-17 00:36:04.295416
+653,65,Magnificent Deathlok,cost_per_click,running,5476,,2017-02-17 00:36:04.654972,2017-02-17 00:36:04.654972
+654,65,Kool-Aid Man,cost_per_impression,paused,6723,,2017-02-17 00:36:05.03764,2017-02-17 00:36:05.03764
+655,65,Isis XI,cost_per_impression,paused,1764,,2017-02-17 00:36:05.241448,2017-02-17 00:36:05.241448
+656,65,Mysterio Ivy,cost_per_impression,running,4891,,2017-02-17 00:36:05.953508,2017-02-17 00:36:05.953508
+657,65,Magnificent Metallo I,cost_per_impression,archived,7962,,2017-02-17 00:36:06.228456,2017-02-17 00:36:06.228456
+722,74,Mephisto Thirteen,cost_per_impression,archived,3554,,2017-02-17 00:36:31.212447,2017-02-17 00:36:31.212447
+723,74,Doctor Klaw,cost_per_impression,archived,638,,2017-02-17 00:36:31.585094,2017-02-17 00:36:31.585094
+724,74,Hollow Girl,cost_per_click,archived,5206,,2017-02-17 00:36:32.002833,2017-02-17 00:36:32.002833
+725,74,Leader,cost_per_click,running,4637,,2017-02-17 00:36:32.452851,2017-02-17 00:36:32.452851
+726,74,Giant Arachne X,cost_per_click,paused,6744,,2017-02-17 00:36:32.735808,2017-02-17 00:36:32.735808
+727,74,Ammo Wolf,cost_per_impression,paused,4799,,2017-02-17 00:36:33.11868,2017-02-17 00:36:33.11868
+728,74,Ultra Hollow Boy,cost_per_click,paused,1436,,2017-02-17 00:36:33.427316,2017-02-17 00:36:33.427316
+729,74,Ultra Rhino IX,cost_per_impression,paused,1212,,2017-02-17 00:36:33.760901,2017-02-17 00:36:33.760901
+730,74,Gambit of Hearts,cost_per_impression,running,1034,,2017-02-17 00:36:34.302264,2017-02-17 00:36:34.302264
+731,74,Doctor Siryn Claw,cost_per_impression,running,2619,,2017-02-17 00:36:34.781998,2017-02-17 00:36:34.781998
+12,3,General Pyro,cost_per_click,archived,1393,,2017-02-16 23:56:08.82503,2017-02-16 23:56:08.82503
+13,3,Green Northstar,cost_per_impression,running,267,,2017-02-16 23:56:13.876362,2017-02-16 23:56:13.876362
+14,3,Magnificent Feral,cost_per_click,archived,1644,,2017-02-16 23:56:26.982538,2017-02-16 23:56:26.982538
+15,3,Supah Morph,cost_per_click,paused,5772,,2017-02-16 23:56:37.535439,2017-02-16 23:56:37.535439
+16,3,Gladiator IX,cost_per_click,archived,3899,,2017-02-16 23:56:53.603253,2017-02-16 23:56:53.603253
+17,3,Loki Fist,cost_per_impression,archived,7585,,2017-02-16 23:57:03.141318,2017-02-16 23:57:03.141318
+18,3,Magnificent Namorita the Fated,cost_per_click,running,379,,2017-02-16 23:57:18.950661,2017-02-16 23:57:18.950661
+19,3,Phoenix Knight,cost_per_click,archived,4447,,2017-02-16 23:57:31.130801,2017-02-16 23:57:31.130801
+20,3,Proto-Goblin,cost_per_click,paused,9415,,2017-02-16 23:57:47.706095,2017-02-16 23:57:47.706095
+21,3,Beetle,cost_per_click,archived,911,,2017-02-16 23:57:59.890799,2017-02-16 23:57:59.890799
+22,3,Giant Trickster Dragon,cost_per_click,archived,4797,,2017-02-16 23:58:14.61038,2017-02-16 23:58:14.61038
+23,3,Captain Mystique Woman,cost_per_click,archived,9223,,2017-02-16 23:58:26.635375,2017-02-16 23:58:26.635375
+900,91,Daredevil Ivy,cost_per_impression,archived,9057,,2017-02-17 00:37:39.51865,2017-02-17 00:37:39.51865
+901,91,Magnificent Hercules,cost_per_click,paused,485,,2017-02-17 00:37:40.79904,2017-02-17 00:37:40.79904
+902,91,Doctor Jigsaw,cost_per_impression,paused,8926,,2017-02-17 00:37:40.992118,2017-02-17 00:37:40.992118
+903,91,Boom Boom Dragon,cost_per_click,running,9583,,2017-02-17 00:37:41.365177,2017-02-17 00:37:41.365177
+904,91,Agent Granny Goodness Skull,cost_per_click,archived,7738,,2017-02-17 00:37:41.742423,2017-02-17 00:37:41.742423
+905,91,Goliath,cost_per_impression,running,5928,,2017-02-17 00:37:42.161379,2017-02-17 00:37:42.161379
+535,52,Shatterstar Lord,cost_per_click,running,9760,,2017-02-17 00:35:21.566104,2017-02-17 00:35:21.566104
+536,52,Songbird Wolf,cost_per_click,paused,5524,,2017-02-17 00:35:21.976113,2017-02-17 00:35:21.976113
+537,52,Ripcord Fist,cost_per_click,archived,7859,,2017-02-17 00:35:22.399946,2017-02-17 00:35:22.399946
+538,52,Cyborg Leader,cost_per_click,running,9133,,2017-02-17 00:35:22.782626,2017-02-17 00:35:22.782626
+539,52,Monarch Brain,cost_per_impression,running,5810,,2017-02-17 00:35:23.218905,2017-02-17 00:35:23.218905
+540,52,Magnificent Iron Fist Man,cost_per_impression,paused,6272,,2017-02-17 00:35:23.483683,2017-02-17 00:35:23.483683
+541,52,Ultra Renata Soliz,cost_per_impression,paused,4410,,2017-02-17 00:35:23.858279,2017-02-17 00:35:23.858279
+542,52,Captain Sif Brain,cost_per_click,running,2313,,2017-02-17 00:35:24.071796,2017-02-17 00:35:24.071796
+568,57,Stardust III,cost_per_impression,paused,142,,2017-02-17 00:35:33.484514,2017-02-17 00:35:33.484514
+569,57,Cyclops,cost_per_click,running,5306,,2017-02-17 00:35:33.844178,2017-02-17 00:35:33.844178
+570,57,Mr Brainiac,cost_per_impression,running,9885,,2017-02-17 00:35:34.044063,2017-02-17 00:35:34.044063
+571,57,Red Nina Theroux,cost_per_click,paused,1398,,2017-02-17 00:35:34.311576,2017-02-17 00:35:34.311576
+572,57,Namorita,cost_per_impression,paused,7846,,2017-02-17 00:35:34.653115,2017-02-17 00:35:34.653115
+573,57,Supah Bullseye,cost_per_impression,paused,5040,,2017-02-17 00:35:34.869874,2017-02-17 00:35:34.869874
+574,57,Giganta Skull,cost_per_impression,paused,1499,,2017-02-17 00:35:35.2283,2017-02-17 00:35:35.2283
+971,100,Supah Chromos the Fated,cost_per_impression,paused,3606,,2017-02-17 00:38:06.600034,2017-02-17 00:38:06.600034
+972,100,Illustrious Brainiac Brain,cost_per_click,paused,9660,,2017-02-17 00:38:06.851375,2017-02-17 00:38:06.851375
+973,100,Agent Loki,cost_per_click,paused,9022,,2017-02-17 00:38:07.107964,2017-02-17 00:38:07.107964
+974,100,Agent Nova,cost_per_click,archived,643,,2017-02-17 00:38:07.416139,2017-02-17 00:38:07.416139
+975,100,Renata Soliz Wolf,cost_per_click,running,8899,,2017-02-17 00:38:07.690083,2017-02-17 00:38:07.690083
+976,100,Captain Swarm Dragon,cost_per_click,running,2504,,2017-02-17 00:38:07.890712,2017-02-17 00:38:07.890712
+977,100,Colossus,cost_per_click,archived,8853,,2017-02-17 00:38:08.290558,2017-02-17 00:38:08.290558
+978,100,Spider,cost_per_impression,running,7889,,2017-02-17 00:38:08.50047,2017-02-17 00:38:08.50047
+623,62,Shocker,cost_per_click,paused,5579,,2017-02-17 00:35:53.65497,2017-02-17 00:35:53.65497
+624,62,Ultra White Queen,cost_per_click,paused,7372,,2017-02-17 00:35:54.136342,2017-02-17 00:35:54.136342
+625,62,Captain Callisto of Hearts,cost_per_click,archived,1303,,2017-02-17 00:35:54.343083,2017-02-17 00:35:54.343083
+626,62,Supah Songbird,cost_per_impression,archived,1397,,2017-02-17 00:35:54.567978,2017-02-17 00:35:54.567978
+627,62,Green Winter Soldier,cost_per_click,running,6876,,2017-02-17 00:35:54.975783,2017-02-17 00:35:54.975783
+628,62,Dark Tinkerer Dragon,cost_per_click,archived,1023,,2017-02-17 00:35:55.292299,2017-02-17 00:35:55.292299
+963,99,Illustrious Sentry Brain,cost_per_impression,running,1651,,2017-02-17 00:38:03.695731,2017-02-17 00:38:03.695731
+964,99,Dark Tiger Shark,cost_per_click,archived,8458,,2017-02-17 00:38:04.096839,2017-02-17 00:38:04.096839
+965,99,Red Synch Spirit,cost_per_click,paused,7894,,2017-02-17 00:38:04.343782,2017-02-17 00:38:04.343782
+966,99,Giant Star-Lord,cost_per_click,archived,2547,,2017-02-17 00:38:04.656076,2017-02-17 00:38:04.656076
+967,99,Sif,cost_per_click,running,5175,,2017-02-17 00:38:05.147432,2017-02-17 00:38:05.147432
+968,99,Two-Face,cost_per_click,archived,9478,,2017-02-17 00:38:05.348504,2017-02-17 00:38:05.348504
+969,99,General Psylocke,cost_per_impression,paused,5093,,2017-02-17 00:38:05.681222,2017-02-17 00:38:05.681222
+970,99,Dark Moloch,cost_per_click,running,7150,,2017-02-17 00:38:06.174163,2017-02-17 00:38:06.174163
+270,28,Warpath Brain,cost_per_impression,running,2141,,2017-02-17 00:33:49.863508,2017-02-17 00:33:49.863508
+271,28,Ripcord,cost_per_click,paused,2468,,2017-02-17 00:33:50.256239,2017-02-17 00:33:50.256239
+272,28,Deathstroke the Hunter,cost_per_impression,running,511,,2017-02-17 00:33:50.51198,2017-02-17 00:33:50.51198
+273,28,Gamora X,cost_per_impression,running,3699,,2017-02-17 00:33:50.76569,2017-02-17 00:33:50.76569
+274,28,Synch,cost_per_impression,archived,7139,,2017-02-17 00:33:51.088418,2017-02-17 00:33:51.088418
+275,28,Sif Strange,cost_per_click,running,4822,,2017-02-17 00:33:51.365899,2017-02-17 00:33:51.365899
+276,28,Crystal,cost_per_impression,archived,3822,,2017-02-17 00:33:51.557545,2017-02-17 00:33:51.557545
+277,28,Rhino,cost_per_click,running,5648,,2017-02-17 00:33:51.848866,2017-02-17 00:33:51.848866
+278,28,Storm Brain,cost_per_click,running,1266,,2017-02-17 00:33:52.140729,2017-02-17 00:33:52.140729
+279,28,Hancock Brain,cost_per_click,archived,3147,,2017-02-17 00:33:52.450254,2017-02-17 00:33:52.450254
+280,28,Captain Darkhawk Claw,cost_per_click,paused,8711,,2017-02-17 00:33:52.742183,2017-02-17 00:33:52.742183
+281,28,Gambit Thirteen,cost_per_click,running,1243,,2017-02-17 00:33:53.100488,2017-02-17 00:33:53.100488
+282,28,Dash,cost_per_click,running,4500,,2017-02-17 00:33:53.549296,2017-02-17 00:33:53.549296
+283,28,Mr Ronin,cost_per_click,paused,4974,,2017-02-17 00:33:53.80853,2017-02-17 00:33:53.80853
+284,28,Warpath Strange,cost_per_impression,paused,6452,,2017-02-17 00:33:54.05525,2017-02-17 00:33:54.05525
+455,46,Starfire X,cost_per_impression,running,8522,,2017-02-17 00:34:55.076934,2017-02-17 00:34:55.076934
+456,46,Mandarin,cost_per_impression,running,880,,2017-02-17 00:34:55.470414,2017-02-17 00:34:55.470414
+457,46,Doctor Boom Boom of Hearts,cost_per_impression,running,7412,,2017-02-17 00:34:55.72496,2017-02-17 00:34:55.72496
+458,46,Giant Vagabond Ivy,cost_per_click,archived,2888,,2017-02-17 00:34:55.918374,2017-02-17 00:34:55.918374
+459,46,Green Arachne IX,cost_per_click,paused,7400,,2017-02-17 00:34:56.285059,2017-02-17 00:34:56.285059
+460,46,Match,cost_per_click,running,5511,,2017-02-17 00:34:56.66437,2017-02-17 00:34:56.66437
+461,46,Giant Gladiator Lord,cost_per_click,running,582,,2017-02-17 00:34:56.901621,2017-02-17 00:34:56.901621
+462,46,Joker Fist,cost_per_click,running,2158,,2017-02-17 00:34:57.134307,2017-02-17 00:34:57.134307
+463,46,Huntress,cost_per_impression,running,7662,,2017-02-17 00:34:57.51011,2017-02-17 00:34:57.51011
+464,46,Mr Triton,cost_per_click,archived,232,,2017-02-17 00:34:57.918722,2017-02-17 00:34:57.918722
+465,46,Onslaught the Hunter,cost_per_impression,running,5402,,2017-02-17 00:34:58.202027,2017-02-17 00:34:58.202027
+466,46,Red Triplicate Strike,cost_per_impression,paused,5842,,2017-02-17 00:34:58.596313,2017-02-17 00:34:58.596313
+467,46,Lyja,cost_per_impression,running,2665,,2017-02-17 00:34:59.095103,2017-02-17 00:34:59.095103
+468,46,Renata Soliz,cost_per_click,paused,4532,,2017-02-17 00:34:59.494254,2017-02-17 00:34:59.494254
+469,46,Warpath,cost_per_impression,running,2300,,2017-02-17 00:34:59.794409,2017-02-17 00:34:59.794409
+942,97,Cyborg Evilhawk Woman,cost_per_click,paused,8091,,2017-02-17 00:37:56.944853,2017-02-17 00:37:56.944853
+943,97,Ultra Bumblebee,cost_per_click,paused,9882,,2017-02-17 00:37:57.312478,2017-02-17 00:37:57.312478
+944,97,Giant Namorita XI,cost_per_click,archived,8914,,2017-02-17 00:37:57.58626,2017-02-17 00:37:57.58626
+945,97,Magnificent Frenzy,cost_per_impression,archived,5910,,2017-02-17 00:37:57.844887,2017-02-17 00:37:57.844887
+946,97,Doctor Beyonder Knight,cost_per_impression,running,7004,,2017-02-17 00:37:58.204088,2017-02-17 00:37:58.204088
+947,97,Century Woman,cost_per_click,archived,1504,,2017-02-17 00:37:58.595321,2017-02-17 00:37:58.595321
+948,97,Agent Maxima X,cost_per_impression,archived,4139,,2017-02-17 00:37:58.846973,2017-02-17 00:37:58.846973
+48,6,Goblin Queen,cost_per_impression,archived,9801,,2017-02-17 00:04:08.588593,2017-02-17 00:04:08.588593
+49,6,Elektra,cost_per_impression,paused,9338,,2017-02-17 00:04:19.568287,2017-02-17 00:04:19.568287
+50,6,Booster Gold,cost_per_impression,archived,6480,,2017-02-17 00:04:31.336413,2017-02-17 00:04:31.336413
+51,6,Psylocke,cost_per_impression,archived,5690,,2017-02-17 00:04:46.654648,2017-02-17 00:04:46.654648
+52,6,Agent Spyke,cost_per_impression,paused,8207,,2017-02-17 00:04:57.931985,2017-02-17 00:04:57.931985
+53,6,Giant Klaw,cost_per_click,running,5981,,2017-02-17 00:05:10.843889,2017-02-17 00:05:10.843889
+54,6,Wolverine II,cost_per_click,archived,4192,,2017-02-17 00:05:30.276214,2017-02-17 00:05:30.276214
+55,6,Doctor Loki of Hearts,cost_per_impression,archived,230,,2017-02-17 00:05:50.928026,2017-02-17 00:05:50.928026
+56,6,Gladiator Ivy,cost_per_impression,archived,7002,,2017-02-17 00:06:06.506483,2017-02-17 00:06:06.506483
+57,6,General Onslaught,cost_per_impression,archived,8663,,2017-02-17 00:06:18.817187,2017-02-17 00:06:18.817187
+58,6,Cyborg Tigra Boy,cost_per_impression,running,8115,,2017-02-17 00:06:31.319982,2017-02-17 00:06:31.319982
+59,6,Dark Binary XI,cost_per_impression,running,5002,,2017-02-17 00:06:40.425461,2017-02-17 00:06:40.425461
+60,6,Red She-Hulk Boy,cost_per_click,paused,3052,,2017-02-17 00:06:52.365932,2017-02-17 00:06:52.365932
+382,38,Juggernaut,cost_per_impression,paused,372,,2017-02-17 00:34:28.472871,2017-02-17 00:34:28.472871
+383,38,Cable of Hearts,cost_per_impression,paused,2294,,2017-02-17 00:34:28.859377,2017-02-17 00:34:28.859377
+384,38,Beak Woman,cost_per_click,archived,6443,,2017-02-17 00:34:29.252555,2017-02-17 00:34:29.252555
+385,38,Martian Manhunter II,cost_per_impression,archived,4369,,2017-02-17 00:34:29.602093,2017-02-17 00:34:29.602093
+386,38,Spider,cost_per_impression,paused,3358,,2017-02-17 00:34:29.892554,2017-02-17 00:34:29.892554
+387,38,Deathlok,cost_per_click,paused,4308,,2017-02-17 00:34:30.373593,2017-02-17 00:34:30.373593
+388,38,Mandarin Claw,cost_per_click,running,6780,,2017-02-17 00:34:30.693874,2017-02-17 00:34:30.693874
+389,38,Thanos,cost_per_click,paused,3309,,2017-02-17 00:34:31.017858,2017-02-17 00:34:31.017858
+390,38,Illustrious Polaris,cost_per_click,archived,4123,,2017-02-17 00:34:31.434952,2017-02-17 00:34:31.434952
+391,38,Jack of Hearts,cost_per_impression,archived,9160,,2017-02-17 00:34:31.756557,2017-02-17 00:34:31.756557
+392,38,Doctor Mogo Fist,cost_per_click,paused,1034,,2017-02-17 00:34:32.126345,2017-02-17 00:34:32.126345
+393,38,Doctor Shrinking Violet IX,cost_per_impression,archived,2556,,2017-02-17 00:34:32.328474,2017-02-17 00:34:32.328474
+394,38,Bumblebee,cost_per_impression,running,7909,,2017-02-17 00:34:32.584422,2017-02-17 00:34:32.584422
+658,66,Captain Rorschach,cost_per_click,paused,5995,,2017-02-17 00:36:06.850589,2017-02-17 00:36:06.850589
+659,66,Quantum Man,cost_per_impression,archived,5274,,2017-02-17 00:36:07.054506,2017-02-17 00:36:07.054506
+660,66,Supah Vulture,cost_per_click,paused,5329,,2017-02-17 00:36:07.404107,2017-02-17 00:36:07.404107
+661,66,Binary XI,cost_per_impression,paused,3208,,2017-02-17 00:36:07.77163,2017-02-17 00:36:07.77163
+662,66,Ultra Atom Eyes,cost_per_click,running,5443,,2017-02-17 00:36:07.980406,2017-02-17 00:36:07.980406
+663,66,General Scarecrow,cost_per_impression,paused,4943,,2017-02-17 00:36:08.38741,2017-02-17 00:36:08.38741
+664,66,Aqua,cost_per_impression,running,3653,,2017-02-17 00:36:08.857447,2017-02-17 00:36:08.857447
+665,66,Green Cyclops,cost_per_click,running,8357,,2017-02-17 00:36:09.239665,2017-02-17 00:36:09.239665
+666,66,Mr Angel Lord,cost_per_impression,paused,8918,,2017-02-17 00:36:09.662933,2017-02-17 00:36:09.662933
+700,71,Annihilus Lord,cost_per_click,running,8094,,2017-02-17 00:36:23.572346,2017-02-17 00:36:23.572346
+701,71,Triton Machine,cost_per_click,archived,654,,2017-02-17 00:36:23.89156,2017-02-17 00:36:23.89156
+702,71,Doctor Ultron,cost_per_click,archived,6288,,2017-02-17 00:36:24.207993,2017-02-17 00:36:24.207993
+703,71,Giant Vanisher Lord,cost_per_click,running,9889,,2017-02-17 00:36:24.557891,2017-02-17 00:36:24.557891
+704,71,Feral,cost_per_impression,paused,1260,,2017-02-17 00:36:24.808923,2017-02-17 00:36:24.808923
+712,73,Sabretooth,cost_per_impression,paused,8431,,2017-02-17 00:36:27.704168,2017-02-17 00:36:27.704168
+713,73,Giant Silk Brain,cost_per_impression,running,5442,,2017-02-17 00:36:27.976446,2017-02-17 00:36:27.976446
+714,73,Violator,cost_per_impression,running,1318,,2017-02-17 00:36:28.268279,2017-02-17 00:36:28.268279
+715,73,Ultra Ghost,cost_per_impression,running,2312,,2017-02-17 00:36:28.5432,2017-02-17 00:36:28.5432
+716,73,Angel,cost_per_impression,paused,3599,,2017-02-17 00:36:29.00979,2017-02-17 00:36:29.00979
+717,73,Shriek Thirteen,cost_per_impression,paused,1750,,2017-02-17 00:36:29.220692,2017-02-17 00:36:29.220692
+718,73,Goliath Fist,cost_per_click,archived,7337,,2017-02-17 00:36:29.452833,2017-02-17 00:36:29.452833
+719,73,Cyborg Thanos,cost_per_click,archived,8092,,2017-02-17 00:36:29.809576,2017-02-17 00:36:29.809576
+720,73,Captain Cheetah,cost_per_click,paused,3759,,2017-02-17 00:36:30.101036,2017-02-17 00:36:30.101036
+721,73,Genesis,cost_per_impression,running,9935,,2017-02-17 00:36:30.428703,2017-02-17 00:36:30.428703
+846,86,Armor,cost_per_click,archived,5801,,2017-02-17 00:37:18.750912,2017-02-17 00:37:18.750912
+847,86,Supah Bloodwraith Ivy,cost_per_impression,running,7205,,2017-02-17 00:37:19.134113,2017-02-17 00:37:19.134113
+848,86,General Arachne,cost_per_impression,paused,4168,,2017-02-17 00:37:19.556905,2017-02-17 00:37:19.556905
+849,86,Captain Havok,cost_per_click,archived,7387,,2017-02-17 00:37:19.857082,2017-02-17 00:37:19.857082
+850,86,Thanos II,cost_per_impression,archived,2191,,2017-02-17 00:37:20.458309,2017-02-17 00:37:20.458309
+851,86,Longshot I,cost_per_impression,paused,788,,2017-02-17 00:37:20.782391,2017-02-17 00:37:20.782391
+852,86,Blink,cost_per_click,paused,6014,,2017-02-17 00:37:21.115551,2017-02-17 00:37:21.115551
+853,86,Cyborg Siren,cost_per_impression,archived,2339,,2017-02-17 00:37:21.328317,2017-02-17 00:37:21.328317
+854,86,Cable,cost_per_impression,paused,1411,,2017-02-17 00:37:21.724146,2017-02-17 00:37:21.724146
+855,86,Agent Toad Machine,cost_per_click,running,2230,,2017-02-17 00:37:22.150175,2017-02-17 00:37:22.150175
+856,86,Blade of Hearts,cost_per_impression,archived,5746,,2017-02-17 00:37:22.408481,2017-02-17 00:37:22.408481
+857,86,Mr Bolt II,cost_per_impression,paused,3636,,2017-02-17 00:37:22.667668,2017-02-17 00:37:22.667668
+858,86,Ultra Proto-Goblin,cost_per_click,archived,3505,,2017-02-17 00:37:22.957613,2017-02-17 00:37:22.957613
+859,86,Giant Snowbird Thirteen,cost_per_click,paused,5962,,2017-02-17 00:37:23.384605,2017-02-17 00:37:23.384605
+860,86,Lobo Woman,cost_per_impression,running,3709,,2017-02-17 00:37:23.667476,2017-02-17 00:37:23.667476
+200,21,Red Ripcord,cost_per_impression,running,4781,,2017-02-17 00:33:23.991134,2017-02-17 00:33:23.991134
+201,21,Mr Starfire,cost_per_click,paused,3244,,2017-02-17 00:33:24.250131,2017-02-17 00:33:24.250131
+202,21,General Ammo Thirteen,cost_per_impression,archived,643,,2017-02-17 00:33:24.609842,2017-02-17 00:33:24.609842
+203,21,Metamorpho,cost_per_impression,archived,9980,,2017-02-17 00:33:25.147115,2017-02-17 00:33:25.147115
+204,21,Mr Ripcord,cost_per_impression,archived,1387,,2017-02-17 00:33:25.483102,2017-02-17 00:33:25.483102
+205,21,Shang-Chi,cost_per_impression,archived,168,,2017-02-17 00:33:25.857515,2017-02-17 00:33:25.857515
+206,21,Cottonmouth,cost_per_click,archived,9953,,2017-02-17 00:33:26.041564,2017-02-17 00:33:26.041564
+207,21,Chromos,cost_per_impression,running,6737,,2017-02-17 00:33:26.39978,2017-02-17 00:33:26.39978
+208,21,Giant Jigsaw the Hunter,cost_per_click,running,9375,,2017-02-17 00:33:26.749804,2017-02-17 00:33:26.749804
+209,21,Faora,cost_per_click,archived,1474,,2017-02-17 00:33:26.950141,2017-02-17 00:33:26.950141
+210,21,Cyborg Copycat the Hunter,cost_per_impression,paused,5491,,2017-02-17 00:33:27.350693,2017-02-17 00:33:27.350693
+211,21,Doctor Animal III,cost_per_click,running,4266,,2017-02-17 00:33:27.568479,2017-02-17 00:33:27.568479
+340,34,Sage Lord,cost_per_impression,running,8099,,2017-02-17 00:34:14.025697,2017-02-17 00:34:14.025697
+341,34,Captain Boom Boom,cost_per_click,running,9010,,2017-02-17 00:34:14.371732,2017-02-17 00:34:14.371732
+342,34,Atlas Dragon,cost_per_impression,paused,2857,,2017-02-17 00:34:14.609646,2017-02-17 00:34:14.609646
+343,34,Punisher,cost_per_impression,archived,5898,,2017-02-17 00:34:14.800978,2017-02-17 00:34:14.800978
+344,34,Agent Blob the Fated,cost_per_impression,archived,5593,,2017-02-17 00:34:15.096654,2017-02-17 00:34:15.096654
+345,34,Bomb Queen,cost_per_impression,paused,979,,2017-02-17 00:34:15.338195,2017-02-17 00:34:15.338195
+346,34,Red Hancock,cost_per_impression,archived,4473,,2017-02-17 00:34:15.555348,2017-02-17 00:34:15.555348
+347,34,Illustrious Loki Wolf,cost_per_click,paused,7568,,2017-02-17 00:34:15.890136,2017-02-17 00:34:15.890136
+348,34,Agent Chromos Skull,cost_per_impression,running,9863,,2017-02-17 00:34:16.188291,2017-02-17 00:34:16.188291
+349,34,Elongated Man,cost_per_click,running,1425,,2017-02-17 00:34:16.471947,2017-02-17 00:34:16.471947
+690,70,Sentry Fist,cost_per_click,running,851,,2017-02-17 00:36:20.186392,2017-02-17 00:36:20.186392
+691,70,Magnificent Spawn,cost_per_impression,running,8415,,2017-02-17 00:36:20.482889,2017-02-17 00:36:20.482889
+692,70,Longshot,cost_per_impression,paused,9676,,2017-02-17 00:36:20.941333,2017-02-17 00:36:20.941333
+693,70,Magnificent Klaw Knight,cost_per_click,paused,6178,,2017-02-17 00:36:21.183244,2017-02-17 00:36:21.183244
+694,70,Mr Banshee,cost_per_impression,archived,6140,,2017-02-17 00:36:21.557321,2017-02-17 00:36:21.557321
+695,70,Meltdown,cost_per_impression,paused,5963,,2017-02-17 00:36:22.028912,2017-02-17 00:36:22.028912
+696,70,Scorpion the Hunter,cost_per_impression,paused,5640,,2017-02-17 00:36:22.342191,2017-02-17 00:36:22.342191
+697,70,Green Cerebra Ivy,cost_per_click,paused,3488,,2017-02-17 00:36:22.749499,2017-02-17 00:36:22.749499
+698,70,Jack-Jack,cost_per_click,archived,4277,,2017-02-17 00:36:22.996325,2017-02-17 00:36:22.996325
+699,70,Penance,cost_per_click,archived,9120,,2017-02-17 00:36:23.216679,2017-02-17 00:36:23.216679
+395,39,Clea,cost_per_impression,running,5650,,2017-02-17 00:34:32.96373,2017-02-17 00:34:32.96373
+396,39,Bolt,cost_per_impression,archived,9619,,2017-02-17 00:34:33.18426,2017-02-17 00:34:33.18426
+397,39,Bantam,cost_per_click,paused,9826,,2017-02-17 00:34:33.476364,2017-02-17 00:34:33.476364
+398,39,Ultra Exodus,cost_per_click,running,2732,,2017-02-17 00:34:33.831208,2017-02-17 00:34:33.831208
+399,39,Silverclaw,cost_per_impression,running,1835,,2017-02-17 00:34:34.210597,2017-02-17 00:34:34.210597
+400,39,Dark Warlock XI,cost_per_impression,archived,9898,,2017-02-17 00:34:34.443798,2017-02-17 00:34:34.443798
+492,49,Ultra Gorilla Grodd,cost_per_impression,archived,7253,,2017-02-17 00:35:07.312501,2017-02-17 00:35:07.312501
+493,49,Sabretooth Ivy,cost_per_click,running,2317,,2017-02-17 00:35:07.545109,2017-02-17 00:35:07.545109
+494,49,Abomination Claw,cost_per_click,running,2907,,2017-02-17 00:35:07.842137,2017-02-17 00:35:07.842137
+495,49,Ben Boy,cost_per_impression,running,6287,,2017-02-17 00:35:08.112291,2017-02-17 00:35:08.112291
+496,49,Green Beak X,cost_per_impression,running,3783,,2017-02-17 00:35:08.317168,2017-02-17 00:35:08.317168
+497,49,She-Hulk Fist,cost_per_click,archived,6275,,2017-02-17 00:35:08.579558,2017-02-17 00:35:08.579558
+498,49,Shatterstar,cost_per_impression,running,6190,,2017-02-17 00:35:08.905522,2017-02-17 00:35:08.905522
+499,49,Firestar,cost_per_click,running,3202,,2017-02-17 00:35:09.279928,2017-02-17 00:35:09.279928
+500,49,Red Lizard,cost_per_click,running,2118,,2017-02-17 00:35:09.937703,2017-02-17 00:35:09.937703
+501,49,Blob,cost_per_click,running,791,,2017-02-17 00:35:10.42728,2017-02-17 00:35:10.42728
+502,49,Gamora,cost_per_impression,archived,6219,,2017-02-17 00:35:10.779775,2017-02-17 00:35:10.779775
+503,49,Walrus,cost_per_click,archived,9735,,2017-02-17 00:35:11.113447,2017-02-17 00:35:11.113447
+504,49,Winter Soldier,cost_per_impression,paused,7134,,2017-02-17 00:35:11.43899,2017-02-17 00:35:11.43899
+505,49,Wildfire Dragon,cost_per_impression,archived,6160,,2017-02-17 00:35:11.689521,2017-02-17 00:35:11.689521
+506,49,Supah Blade,cost_per_click,running,5502,,2017-02-17 00:35:12.038563,2017-02-17 00:35:12.038563
+809,83,Mandarin I,cost_per_click,paused,8528,,2017-02-17 00:37:04.444485,2017-02-17 00:37:04.444485
+810,83,Cerebra,cost_per_click,running,1210,,2017-02-17 00:37:04.955413,2017-02-17 00:37:04.955413
+811,83,Rachel Pirzad Lord,cost_per_click,running,6098,,2017-02-17 00:37:05.319523,2017-02-17 00:37:05.319523
+812,83,General Pyro,cost_per_click,paused,9657,,2017-02-17 00:37:05.75662,2017-02-17 00:37:05.75662
+813,83,Magnificent Ariel Machine,cost_per_impression,paused,1411,,2017-02-17 00:37:06.057604,2017-02-17 00:37:06.057604
+814,83,Doppelganger Machine,cost_per_click,paused,7679,,2017-02-17 00:37:06.42912,2017-02-17 00:37:06.42912
+815,83,Chuck Norris,cost_per_impression,running,187,,2017-02-17 00:37:06.7208,2017-02-17 00:37:06.7208
+816,83,Ultra Darkstar Spirit,cost_per_click,paused,8528,,2017-02-17 00:37:07.119525,2017-02-17 00:37:07.119525
+817,83,Supah A-Bomb Wolf,cost_per_click,paused,122,,2017-02-17 00:37:07.470664,2017-02-17 00:37:07.470664
+818,83,Magnificent T the Fated,cost_per_click,archived,5349,,2017-02-17 00:37:07.855022,2017-02-17 00:37:07.855022
+819,83,Ultra Cyclops II,cost_per_click,archived,2074,,2017-02-17 00:37:08.293481,2017-02-17 00:37:08.293481
+820,83,Agent Kool-Aid Man,cost_per_click,running,6901,,2017-02-17 00:37:08.554564,2017-02-17 00:37:08.554564
+821,83,General Justice Machine,cost_per_impression,running,6890,,2017-02-17 00:37:09.104118,2017-02-17 00:37:09.104118
+822,83,Atlas,cost_per_impression,running,301,,2017-02-17 00:37:09.454094,2017-02-17 00:37:09.454094
+823,83,Illustrious Penguin,cost_per_impression,paused,4792,,2017-02-17 00:37:10.296759,2017-02-17 00:37:10.296759
+126,13,Jigsaw Strike,cost_per_impression,paused,9634,,2017-02-17 00:20:24.908932,2017-02-17 00:20:24.908932
+127,13,Green T Eyes,cost_per_impression,running,9401,,2017-02-17 00:20:41.303599,2017-02-17 00:20:41.303599
+128,13,The Jubilee III,cost_per_click,archived,4606,,2017-02-17 00:20:55.828487,2017-02-17 00:20:55.828487
+129,13,Captain Mystique,cost_per_impression,paused,732,,2017-02-17 00:21:08.824994,2017-02-17 00:21:08.824994
+130,13,Giant Sif the Fated,cost_per_click,running,4164,,2017-02-17 00:21:17.024741,2017-02-17 00:21:17.024741
+131,13,Giant Beetle IX,cost_per_impression,paused,1617,,2017-02-17 00:21:31.369567,2017-02-17 00:21:31.369567
+132,13,Magnificent Osiris,cost_per_click,running,2242,,2017-02-17 00:21:46.605659,2017-02-17 00:21:46.605659
+430,43,Jack-Jack,cost_per_click,paused,3614,,2017-02-17 00:34:45.982419,2017-02-17 00:34:45.982419
+431,43,Onslaught Boy,cost_per_impression,archived,5959,,2017-02-17 00:34:46.299609,2017-02-17 00:34:46.299609
+432,43,Mr Question,cost_per_impression,archived,784,,2017-02-17 00:34:46.648554,2017-02-17 00:34:46.648554
+433,43,Bomb Queen Knight,cost_per_click,paused,4136,,2017-02-17 00:34:46.966207,2017-02-17 00:34:46.966207
+434,43,Agent Sentry Spirit,cost_per_click,running,7252,,2017-02-17 00:34:47.273402,2017-02-17 00:34:47.273402
+435,43,Steel Fist,cost_per_impression,paused,7751,,2017-02-17 00:34:47.590323,2017-02-17 00:34:47.590323
+436,43,Red Buffy Brain,cost_per_click,paused,4812,,2017-02-17 00:34:47.89082,2017-02-17 00:34:47.89082
+437,43,Ultra Crystal Dragon,cost_per_click,running,8405,,2017-02-17 00:34:48.090538,2017-02-17 00:34:48.090538
+438,43,Spawn,cost_per_impression,paused,5248,,2017-02-17 00:34:48.382739,2017-02-17 00:34:48.382739
+439,43,Captain Hell II,cost_per_click,archived,6828,,2017-02-17 00:34:48.90012,2017-02-17 00:34:48.90012
+440,43,General Ra's Al Ghul Man,cost_per_click,archived,8723,,2017-02-17 00:34:49.173858,2017-02-17 00:34:49.173858
+562,56,Magnificent Walrus,cost_per_click,archived,8917,,2017-02-17 00:35:31.359815,2017-02-17 00:35:31.359815
+563,56,Green Curse Ivy,cost_per_click,paused,3286,,2017-02-17 00:35:31.702859,2017-02-17 00:35:31.702859
+564,56,Illustrious Toxin Skull,cost_per_impression,archived,8946,,2017-02-17 00:35:32.093411,2017-02-17 00:35:32.093411
+565,56,Cerebra,cost_per_impression,archived,8781,,2017-02-17 00:35:32.320849,2017-02-17 00:35:32.320849
+566,56,Overtkill,cost_per_impression,paused,6696,,2017-02-17 00:35:32.702678,2017-02-17 00:35:32.702678
+567,56,Magnificent Hercules Strange,cost_per_impression,running,4353,,2017-02-17 00:35:32.928122,2017-02-17 00:35:32.928122
+7,2,Banshee the Hunter,cost_per_click,paused,4574,,2017-02-16 23:55:11.988773,2017-02-16 23:55:11.988773
+8,2,Green Bloodhawk Lord,cost_per_impression,paused,1674,,2017-02-16 23:55:22.349251,2017-02-16 23:55:22.349251
+9,2,The Firestorm Boy,cost_per_impression,running,8313,,2017-02-16 23:55:31.439635,2017-02-16 23:55:31.439635
+10,2,Arsenal Knight,cost_per_click,running,9777,,2017-02-16 23:55:40.937905,2017-02-16 23:55:40.937905
+11,2,Siryn Woman,cost_per_impression,archived,6221,,2017-02-16 23:55:55.077705,2017-02-16 23:55:55.077705
+311,32,Goku Eyes,cost_per_impression,paused,6928,,2017-02-17 00:34:03.999731,2017-02-17 00:34:03.999731
+312,32,Cyborg Rocket Raccoon,cost_per_click,paused,2224,,2017-02-17 00:34:04.386671,2017-02-17 00:34:04.386671
+313,32,Dark Match Dragon,cost_per_impression,running,2590,,2017-02-17 00:34:04.660956,2017-02-17 00:34:04.660956
+314,32,General Ghost,cost_per_click,running,3886,,2017-02-17 00:34:05.194489,2017-02-17 00:34:05.194489
+315,32,Hyperion of Hearts,cost_per_impression,running,4527,,2017-02-17 00:34:05.560527,2017-02-17 00:34:05.560527
+316,32,Ultra Arclight,cost_per_click,paused,4927,,2017-02-17 00:34:05.911783,2017-02-17 00:34:05.911783
+317,32,Giant Thunderbird Fist,cost_per_click,paused,9997,,2017-02-17 00:34:06.112034,2017-02-17 00:34:06.112034
+318,32,Deathlok,cost_per_impression,paused,4091,,2017-02-17 00:34:06.38813,2017-02-17 00:34:06.38813
+319,32,General She-Hulk Strange,cost_per_impression,running,3494,,2017-02-17 00:34:06.694836,2017-02-17 00:34:06.694836
+320,32,Red Spectre,cost_per_click,running,6344,,2017-02-17 00:34:06.961876,2017-02-17 00:34:06.961876
+321,32,Wyatt Wingfoot Man,cost_per_impression,archived,864,,2017-02-17 00:34:07.253047,2017-02-17 00:34:07.253047
+322,32,Doctor Hybrid,cost_per_click,running,3848,,2017-02-17 00:34:07.445454,2017-02-17 00:34:07.445454
+323,32,Corsair the Hunter,cost_per_click,running,471,,2017-02-17 00:34:07.828416,2017-02-17 00:34:07.828416
+324,32,Cyborg Iron Fist,cost_per_impression,archived,3365,,2017-02-17 00:34:08.199075,2017-02-17 00:34:08.199075
+470,47,Giant Maverick II,cost_per_click,paused,8733,,2017-02-17 00:35:00.21607,2017-02-17 00:35:00.21607
+471,47,Green Loki,cost_per_impression,archived,5699,,2017-02-17 00:35:00.478061,2017-02-17 00:35:00.478061
+472,47,Gorilla Grodd Machine,cost_per_click,running,1127,,2017-02-17 00:35:00.885667,2017-02-17 00:35:00.885667
+473,47,Illustrious Rachel Pirzad,cost_per_click,archived,6084,,2017-02-17 00:35:01.120104,2017-02-17 00:35:01.120104
+474,47,Giganta the Hunter,cost_per_impression,running,7653,,2017-02-17 00:35:01.357865,2017-02-17 00:35:01.357865
+475,47,Dark Bane of Hearts,cost_per_click,running,9036,,2017-02-17 00:35:01.727642,2017-02-17 00:35:01.727642
+476,47,Ultra Monarch,cost_per_impression,archived,9828,,2017-02-17 00:35:02.076972,2017-02-17 00:35:02.076972
+477,47,Rick Flag,cost_per_impression,paused,9215,,2017-02-17 00:35:02.303688,2017-02-17 00:35:02.303688
+257,27,Agent Havok IX,cost_per_click,running,9166,,2017-02-17 00:33:45.637289,2017-02-17 00:33:45.637289
+258,27,Annihilus II,cost_per_impression,running,4791,,2017-02-17 00:33:45.997002,2017-02-17 00:33:45.997002
+259,27,Hollow,cost_per_impression,archived,2840,,2017-02-17 00:33:46.222115,2017-02-17 00:33:46.222115
+260,27,Green Hercules Girl,cost_per_impression,running,8432,,2017-02-17 00:33:46.489551,2017-02-17 00:33:46.489551
+261,27,Magus Spirit,cost_per_impression,running,8378,,2017-02-17 00:33:46.973608,2017-02-17 00:33:46.973608
+262,27,Warlock Woman,cost_per_impression,running,2065,,2017-02-17 00:33:47.321304,2017-02-17 00:33:47.321304
+263,27,Bloodwraith Man,cost_per_impression,paused,9854,,2017-02-17 00:33:47.575158,2017-02-17 00:33:47.575158
+264,27,Ultra Booster Gold,cost_per_click,paused,7369,,2017-02-17 00:33:47.9555,2017-02-17 00:33:47.9555
+265,27,Phoenix Ivy,cost_per_click,archived,9772,,2017-02-17 00:33:48.332035,2017-02-17 00:33:48.332035
+266,27,Blink,cost_per_impression,running,8498,,2017-02-17 00:33:48.566089,2017-02-17 00:33:48.566089
+267,27,Agent Quantum Strike,cost_per_impression,paused,2698,,2017-02-17 00:33:48.881214,2017-02-17 00:33:48.881214
+268,27,Watcher the Hunter,cost_per_click,paused,9794,,2017-02-17 00:33:49.082099,2017-02-17 00:33:49.082099
+269,27,Magnificent Snowbird Spirit,cost_per_impression,archived,9830,,2017-02-17 00:33:49.399619,2017-02-17 00:33:49.399619
+932,95,Plastique III,cost_per_click,archived,2114,,2017-02-17 00:37:52.796615,2017-02-17 00:37:52.796615
+933,95,Metallo Claw,cost_per_click,paused,106,,2017-02-17 00:37:53.202806,2017-02-17 00:37:53.202806
+934,95,Bloodwraith,cost_per_impression,archived,6290,,2017-02-17 00:37:53.552017,2017-02-17 00:37:53.552017
+935,95,Siren,cost_per_click,paused,4927,,2017-02-17 00:37:53.935274,2017-02-17 00:37:53.935274
+936,95,Riddler III,cost_per_impression,archived,3598,,2017-02-17 00:37:54.369256,2017-02-17 00:37:54.369256
+575,58,Alien,cost_per_impression,running,3228,,2017-02-17 00:35:35.890931,2017-02-17 00:35:35.890931
+576,58,Warpath,cost_per_click,running,5248,,2017-02-17 00:35:36.203658,2017-02-17 00:35:36.203658
+577,58,Jack-Jack I,cost_per_impression,archived,9641,,2017-02-17 00:35:36.436525,2017-02-17 00:35:36.436525
+578,58,Illustrious Demogoblin,cost_per_click,running,7441,,2017-02-17 00:35:36.771554,2017-02-17 00:35:36.771554
+579,58,Green Hyperion Dragon,cost_per_impression,running,3129,,2017-02-17 00:35:37.128789,2017-02-17 00:35:37.128789
+580,58,Hybrid,cost_per_click,archived,4837,,2017-02-17 00:35:37.519661,2017-02-17 00:35:37.519661
+581,58,Riddler,cost_per_click,paused,7252,,2017-02-17 00:35:37.913557,2017-02-17 00:35:37.913557
+582,58,Giant Atlas,cost_per_impression,archived,4889,,2017-02-17 00:35:38.471621,2017-02-17 00:35:38.471621
+583,58,The Tiger Shark Strange,cost_per_click,paused,9941,,2017-02-17 00:35:38.746341,2017-02-17 00:35:38.746341
+584,58,Silverclaw,cost_per_impression,archived,1174,,2017-02-17 00:35:39.10539,2017-02-17 00:35:39.10539
+585,58,Agent Chromos,cost_per_click,running,5001,,2017-02-17 00:35:39.503413,2017-02-17 00:35:39.503413
+586,58,Spider Brain,cost_per_click,running,445,,2017-02-17 00:35:40.391321,2017-02-17 00:35:40.391321
+416,41,Energy Man,cost_per_click,running,6514,,2017-02-17 00:34:40.817408,2017-02-17 00:34:40.817408
+417,41,Doctor Darkstar,cost_per_impression,running,6294,,2017-02-17 00:34:41.20179,2017-02-17 00:34:41.20179
+418,41,Mr Speedy Claw,cost_per_impression,running,8545,,2017-02-17 00:34:41.464152,2017-02-17 00:34:41.464152
+419,41,Speedy Eyes,cost_per_impression,paused,8337,,2017-02-17 00:34:41.856122,2017-02-17 00:34:41.856122
+420,41,Blob of Hearts,cost_per_click,archived,7913,,2017-02-17 00:34:42.072145,2017-02-17 00:34:42.072145
+421,41,Impulse,cost_per_impression,running,1482,,2017-02-17 00:34:42.347528,2017-02-17 00:34:42.347528
+422,42,Giant Medusa II,cost_per_click,paused,5736,,2017-02-17 00:34:42.84609,2017-02-17 00:34:42.84609
+423,42,Giant Booster Gold,cost_per_impression,running,2358,,2017-02-17 00:34:43.255746,2017-02-17 00:34:43.255746
+424,42,Captain Misfit Skull,cost_per_click,running,7296,,2017-02-17 00:34:43.648312,2017-02-17 00:34:43.648312
+425,42,Bizarro,cost_per_click,running,9572,,2017-02-17 00:34:44.048447,2017-02-17 00:34:44.048447
+426,42,Red Steel,cost_per_impression,paused,2602,,2017-02-17 00:34:44.431044,2017-02-17 00:34:44.431044
+427,42,Vulture,cost_per_impression,running,7919,,2017-02-17 00:34:44.698261,2017-02-17 00:34:44.698261
+428,42,Medusa,cost_per_impression,archived,9776,,2017-02-17 00:34:44.939424,2017-02-17 00:34:44.939424
+429,42,Illustrious Sentry,cost_per_impression,archived,7303,,2017-02-17 00:34:45.448678,2017-02-17 00:34:45.448678
+82,9,Illustrious Synch Thirteen,cost_per_click,running,8691,,2017-02-17 00:11:49.415012,2017-02-17 00:11:49.415012
+83,9,Captain Giganta the Hunter,cost_per_click,running,6259,,2017-02-17 00:11:59.00198,2017-02-17 00:11:59.00198
+84,9,Deathlok,cost_per_click,archived,889,,2017-02-17 00:12:08.539306,2017-02-17 00:12:08.539306
+85,9,Evilhawk,cost_per_click,archived,8649,,2017-02-17 00:12:22.265896,2017-02-17 00:12:22.265896
+86,9,Corsair,cost_per_click,running,9543,,2017-02-17 00:12:34.509787,2017-02-17 00:12:34.509787
+87,9,Giant Maverick,cost_per_impression,running,179,,2017-02-17 00:12:45.82862,2017-02-17 00:12:45.82862
+88,9,Mr Titan Strange,cost_per_click,paused,1279,,2017-02-17 00:12:57.854186,2017-02-17 00:12:57.854186
+89,9,Doc Samson,cost_per_click,running,9239,,2017-02-17 00:13:07.164567,2017-02-17 00:13:07.164567
+90,9,Tigra Knight,cost_per_impression,archived,134,,2017-02-17 00:13:23.074491,2017-02-17 00:13:23.074491
+91,9,Green Ares,cost_per_impression,paused,7372,,2017-02-17 00:13:33.721425,2017-02-17 00:13:33.721425
+222,23,Molten Man,cost_per_impression,archived,5344,,2017-02-17 00:33:32.465749,2017-02-17 00:33:32.465749
+223,23,Brother Voodoo IX,cost_per_click,paused,9932,,2017-02-17 00:33:32.96093,2017-02-17 00:33:32.96093
+224,23,Doctor Bumblebee Dragon,cost_per_click,paused,2143,,2017-02-17 00:33:33.334793,2017-02-17 00:33:33.334793
+225,23,Banshee XI,cost_per_impression,archived,2721,,2017-02-17 00:33:33.653644,2017-02-17 00:33:33.653644
+226,23,Red Hell Fist,cost_per_click,paused,4930,,2017-02-17 00:33:34.044066,2017-02-17 00:33:34.044066
+227,23,Maxima Dragon,cost_per_click,running,8991,,2017-02-17 00:33:34.49597,2017-02-17 00:33:34.49597
+228,23,Captain Triplicate,cost_per_impression,archived,5272,,2017-02-17 00:33:34.987621,2017-02-17 00:33:34.987621
+229,23,Agent Kang,cost_per_click,paused,7879,,2017-02-17 00:33:35.238398,2017-02-17 00:33:35.238398
+293,30,Omniscient,cost_per_impression,paused,7369,,2017-02-17 00:33:57.906535,2017-02-17 00:33:57.906535
+294,30,Metamorpho Spirit,cost_per_click,paused,9163,,2017-02-17 00:33:58.306181,2017-02-17 00:33:58.306181
+295,30,General Vision Knight,cost_per_click,paused,5591,,2017-02-17 00:33:58.659827,2017-02-17 00:33:58.659827
+296,30,Captain Deadshot,cost_per_impression,paused,8155,,2017-02-17 00:33:58.859294,2017-02-17 00:33:58.859294
+297,30,Supah Polaris Ivy,cost_per_click,archived,1847,,2017-02-17 00:33:59.167335,2017-02-17 00:33:59.167335
+298,30,Groot,cost_per_impression,running,1565,,2017-02-17 00:33:59.601694,2017-02-17 00:33:59.601694
+299,30,Agent Impulse of Hearts,cost_per_impression,paused,9926,,2017-02-17 00:34:00.009553,2017-02-17 00:34:00.009553
+300,30,Cyborg Buffy X,cost_per_impression,paused,9278,,2017-02-17 00:34:00.247463,2017-02-17 00:34:00.247463
+742,76,Agent Firelord Fist,cost_per_impression,paused,1032,,2017-02-17 00:36:39.167578,2017-02-17 00:36:39.167578
+743,76,Dark Scarecrow Fist,cost_per_impression,paused,4674,,2017-02-17 00:36:39.498126,2017-02-17 00:36:39.498126
+744,76,General Ant,cost_per_impression,running,2659,,2017-02-17 00:36:40.955275,2017-02-17 00:36:40.955275
+745,76,Ultra Havok,cost_per_impression,running,7200,,2017-02-17 00:36:41.239499,2017-02-17 00:36:41.239499
+746,76,Supah Isis,cost_per_impression,paused,7288,,2017-02-17 00:36:41.58857,2017-02-17 00:36:41.58857
+782,80,Rachel Pirzad Lord,cost_per_click,running,8045,,2017-02-17 00:36:55.246096,2017-02-17 00:36:55.246096
+783,80,Wolfsbane the Hunter,cost_per_click,running,588,,2017-02-17 00:36:55.625622,2017-02-17 00:36:55.625622
+784,80,Ultra Tempest,cost_per_impression,running,8461,,2017-02-17 00:36:55.94392,2017-02-17 00:36:55.94392
+785,80,Magus,cost_per_impression,running,340,,2017-02-17 00:36:56.267764,2017-02-17 00:36:56.267764
+786,80,Chamber,cost_per_impression,running,1715,,2017-02-17 00:36:56.586077,2017-02-17 00:36:56.586077
+787,80,Cyborg Phantom,cost_per_impression,running,9044,,2017-02-17 00:36:56.841661,2017-02-17 00:36:56.841661
+788,80,ERG Knight,cost_per_click,paused,158,,2017-02-17 00:36:57.097711,2017-02-17 00:36:57.097711
+789,80,Cogliostro Dragon,cost_per_click,running,4434,,2017-02-17 00:36:57.318204,2017-02-17 00:36:57.318204
+790,80,Moon Knight III,cost_per_impression,paused,5458,,2017-02-17 00:36:57.578491,2017-02-17 00:36:57.578491
+791,80,Giant Warbird,cost_per_click,running,7661,,2017-02-17 00:36:58.032468,2017-02-17 00:36:58.032468
+792,80,Ammo,cost_per_impression,paused,4534,,2017-02-17 00:36:58.335787,2017-02-17 00:36:58.335787
+793,80,Phantom Wolf,cost_per_impression,running,5498,,2017-02-17 00:36:58.777496,2017-02-17 00:36:58.777496
+794,80,Red Toxin,cost_per_impression,paused,6413,,2017-02-17 00:36:59.136259,2017-02-17 00:36:59.136259
+795,80,Red Energy,cost_per_impression,running,9718,,2017-02-17 00:36:59.443204,2017-02-17 00:36:59.443204
+796,80,Goblin Queen Strange,cost_per_impression,archived,5467,,2017-02-17 00:36:59.686896,2017-02-17 00:36:59.686896
+797,81,Longshot,cost_per_impression,paused,9598,,2017-02-17 00:37:00.093802,2017-02-17 00:37:00.093802
+798,81,Valkyrie,cost_per_impression,archived,7465,,2017-02-17 00:37:00.429682,2017-02-17 00:37:00.429682
+799,81,Giant Vision IX,cost_per_impression,running,2698,,2017-02-17 00:37:00.870462,2017-02-17 00:37:00.870462
+800,81,Silverclaw,cost_per_click,paused,5369,,2017-02-17 00:37:01.230606,2017-02-17 00:37:01.230606
+801,81,Ultra Overtkill Thirteen,cost_per_impression,paused,9180,,2017-02-17 00:37:01.545356,2017-02-17 00:37:01.545356
+802,81,Dark Arsenal Strike,cost_per_impression,archived,2317,,2017-02-17 00:37:01.91423,2017-02-17 00:37:01.91423
+889,90,Supah Doppelganger,cost_per_impression,archived,5918,,2017-02-17 00:37:34.817826,2017-02-17 00:37:34.817826
+890,90,General Riddler,cost_per_click,paused,6013,,2017-02-17 00:37:35.079388,2017-02-17 00:37:35.079388
+891,90,The Cat the Fated,cost_per_click,running,8947,,2017-02-17 00:37:35.654153,2017-02-17 00:37:35.654153
+892,90,Energy III,cost_per_impression,archived,507,,2017-02-17 00:37:36.202479,2017-02-17 00:37:36.202479
+893,90,Illustrious Firestar Thirteen,cost_per_click,paused,1055,,2017-02-17 00:37:36.527555,2017-02-17 00:37:36.527555
+894,90,Hancock,cost_per_click,archived,3588,,2017-02-17 00:37:36.845786,2017-02-17 00:37:36.845786
+895,90,Illustrious Fixer Spirit,cost_per_impression,archived,4423,,2017-02-17 00:37:37.048436,2017-02-17 00:37:37.048436
+896,90,Agent Shatterstar,cost_per_click,paused,7017,,2017-02-17 00:37:37.454932,2017-02-17 00:37:37.454932
+897,90,Blizzard Girl,cost_per_impression,paused,427,,2017-02-17 00:37:37.891677,2017-02-17 00:37:37.891677
+898,90,Energy Girl,cost_per_click,paused,274,,2017-02-17 00:37:38.63064,2017-02-17 00:37:38.63064
+899,90,Darkhawk III,cost_per_impression,running,5895,,2017-02-17 00:37:38.981434,2017-02-17 00:37:38.981434
+212,22,Red Longshot Lord,cost_per_click,running,7352,,2017-02-17 00:33:28.019255,2017-02-17 00:33:28.019255
+213,22,Carnage,cost_per_impression,running,6425,,2017-02-17 00:33:28.432001,2017-02-17 00:33:28.432001
+214,22,Doppelganger,cost_per_impression,paused,3416,,2017-02-17 00:33:28.896969,2017-02-17 00:33:28.896969
+215,22,General Forge,cost_per_click,archived,8202,,2017-02-17 00:33:29.264095,2017-02-17 00:33:29.264095
+216,22,Mystique the Fated,cost_per_impression,paused,4848,,2017-02-17 00:33:29.743456,2017-02-17 00:33:29.743456
+217,22,Ultra Jack of Hearts,cost_per_click,paused,7745,,2017-02-17 00:33:30.095114,2017-02-17 00:33:30.095114
+218,22,Captain Buffy Eyes,cost_per_click,archived,2180,,2017-02-17 00:33:30.482413,2017-02-17 00:33:30.482413
+219,22,Tempest III,cost_per_impression,running,5242,,2017-02-17 00:33:31.142922,2017-02-17 00:33:31.142922
+220,22,Ultra Spectre,cost_per_click,paused,8188,,2017-02-17 00:33:31.640428,2017-02-17 00:33:31.640428
+221,22,Deathstroke,cost_per_impression,archived,8007,,2017-02-17 00:33:31.909232,2017-02-17 00:33:31.909232
+587,59,Granny Goodness,cost_per_click,archived,6131,,2017-02-17 00:35:41.077568,2017-02-17 00:35:41.077568
+588,59,Boom Boom Claw,cost_per_click,archived,7441,,2017-02-17 00:35:41.346998,2017-02-17 00:35:41.346998
+589,59,Doctor Destroyer Fist,cost_per_click,archived,3666,,2017-02-17 00:35:41.614586,2017-02-17 00:35:41.614586
+590,59,General Cannonball Boy,cost_per_click,running,968,,2017-02-17 00:35:42.058037,2017-02-17 00:35:42.058037
+591,59,Riddler,cost_per_click,paused,1511,,2017-02-17 00:35:42.455645,2017-02-17 00:35:42.455645
+592,59,Illustrious Absorbing,cost_per_impression,paused,5660,,2017-02-17 00:35:42.772559,2017-02-17 00:35:42.772559
+593,59,Warlock,cost_per_click,running,1969,,2017-02-17 00:35:43.005737,2017-02-17 00:35:43.005737
+594,59,Ben,cost_per_click,paused,3622,,2017-02-17 00:35:43.289122,2017-02-17 00:35:43.289122
+595,59,Box Man,cost_per_click,paused,4049,,2017-02-17 00:35:43.689201,2017-02-17 00:35:43.689201
+596,59,Energy,cost_per_click,archived,9859,,2017-02-17 00:35:44.023179,2017-02-17 00:35:44.023179
+597,59,Doctor Wolfsbane the Hunter,cost_per_impression,running,5584,,2017-02-17 00:35:44.393726,2017-02-17 00:35:44.393726
+598,59,Bishop,cost_per_click,archived,7131,,2017-02-17 00:35:44.856419,2017-02-17 00:35:44.856419
+599,59,Magnificent Synch Claw,cost_per_click,paused,2912,,2017-02-17 00:35:45.322909,2017-02-17 00:35:45.322909
+705,72,Rhino,cost_per_impression,archived,5650,,2017-02-17 00:36:25.346664,2017-02-17 00:36:25.346664
+706,72,Doctor Wasp,cost_per_click,archived,5734,,2017-02-17 00:36:25.725295,2017-02-17 00:36:25.725295
+707,72,Firestar,cost_per_impression,archived,4327,,2017-02-17 00:36:26.1332,2017-02-17 00:36:26.1332
+708,72,Agent Triton Eyes,cost_per_impression,running,7611,,2017-02-17 00:36:26.334933,2017-02-17 00:36:26.334933
+709,72,Leech Skull,cost_per_impression,archived,5406,,2017-02-17 00:36:26.592523,2017-02-17 00:36:26.592523
+710,72,Northstar,cost_per_impression,running,3131,,2017-02-17 00:36:26.892344,2017-02-17 00:36:26.892344
+711,72,Shrinking Violet,cost_per_impression,archived,791,,2017-02-17 00:36:27.138394,2017-02-17 00:36:27.138394
+97,11,Absorbing Knight,cost_per_click,running,7854,,2017-02-17 00:14:45.706128,2017-02-17 00:14:45.706128
+98,11,Mr Sasquatch,cost_per_impression,running,303,,2017-02-17 00:15:00.72166,2017-02-17 00:15:00.72166
+99,11,Deathstroke,cost_per_click,paused,7538,,2017-02-17 00:15:06.556938,2017-02-17 00:15:06.556938
+100,11,Warbird,cost_per_impression,archived,5437,,2017-02-17 00:15:21.497053,2017-02-17 00:15:21.497053
+101,11,Captain Abomination XI,cost_per_click,archived,7814,,2017-02-17 00:15:29.381767,2017-02-17 00:15:29.381767
+102,11,Magnificent Sobek of Hearts,cost_per_click,archived,2112,,2017-02-17 00:15:37.191334,2017-02-17 00:15:37.191334
+103,11,Dormammu,cost_per_impression,running,352,,2017-02-17 00:15:48.509308,2017-02-17 00:15:48.509308
+104,11,Banshee,cost_per_impression,paused,1044,,2017-02-17 00:16:09.052669,2017-02-17 00:16:09.052669
+105,11,Magnificent Astro Boy,cost_per_impression,archived,7137,,2017-02-17 00:16:17.159427,2017-02-17 00:16:17.159427
+106,11,Mimic Eyes,cost_per_impression,running,8476,,2017-02-17 00:16:32.549898,2017-02-17 00:16:32.549898
+107,11,Atlas,cost_per_impression,archived,5474,,2017-02-17 00:16:44.458903,2017-02-17 00:16:44.458903
+108,11,Green Ariel I,cost_per_impression,running,8251,,2017-02-17 00:16:55.168672,2017-02-17 00:16:55.168672
+109,11,Chromos Boy,cost_per_click,archived,612,,2017-02-17 00:17:08.04176,2017-02-17 00:17:08.04176
+110,11,Storm,cost_per_impression,running,9635,,2017-02-17 00:17:21.987855,2017-02-17 00:17:21.987855
+111,11,Ultra Havok,cost_per_impression,paused,7523,,2017-02-17 00:17:29.769605,2017-02-17 00:17:29.769605
+112,12,Red Bloodhawk,cost_per_impression,archived,1652,,2017-02-17 00:17:44.244059,2017-02-17 00:17:44.244059
+113,12,Ultra Space Ghost Machine,cost_per_click,archived,128,,2017-02-17 00:17:56.883564,2017-02-17 00:17:56.883564
+114,12,Galactus Brain,cost_per_impression,archived,7340,,2017-02-17 00:18:03.506635,2017-02-17 00:18:03.506635
+115,12,Metamorpho I,cost_per_click,paused,1090,,2017-02-17 00:18:17.67175,2017-02-17 00:18:17.67175
+116,12,Illustrious Omniscient Machine,cost_per_click,running,570,,2017-02-17 00:18:27.684118,2017-02-17 00:18:27.684118
+117,12,Ultra Spyke Ivy,cost_per_impression,archived,7455,,2017-02-17 00:18:40.677474,2017-02-17 00:18:40.677474
+118,12,Warp,cost_per_impression,running,9087,,2017-02-17 00:18:55.746786,2017-02-17 00:18:55.746786
+119,12,Bloodwraith Wolf,cost_per_click,running,1648,,2017-02-17 00:19:06.431558,2017-02-17 00:19:06.431558
+120,12,Magog,cost_per_impression,running,6423,,2017-02-17 00:19:23.445707,2017-02-17 00:19:23.445707
+121,12,Hulk Girl,cost_per_click,running,201,,2017-02-17 00:19:35.525429,2017-02-17 00:19:35.525429
+122,12,The Venom,cost_per_click,paused,3002,,2017-02-17 00:19:46.025764,2017-02-17 00:19:46.025764
+123,12,Illustrious Fixer III,cost_per_impression,running,9884,,2017-02-17 00:19:51.9975,2017-02-17 00:19:51.9975
+124,12,Gamora,cost_per_impression,paused,7295,,2017-02-17 00:20:01.810273,2017-02-17 00:20:01.810273
+125,12,Zatanna IX,cost_per_impression,paused,648,,2017-02-17 00:20:18.864307,2017-02-17 00:20:18.864307
+285,29,Krypto,cost_per_click,paused,3707,,2017-02-17 00:33:54.539866,2017-02-17 00:33:54.539866
+286,29,Colin Wagner the Hunter,cost_per_click,running,8986,,2017-02-17 00:33:55.00448,2017-02-17 00:33:55.00448
+287,29,Rick Flag II,cost_per_click,running,2672,,2017-02-17 00:33:55.412713,2017-02-17 00:33:55.412713
+288,29,Chameleon,cost_per_impression,paused,8288,,2017-02-17 00:33:55.724573,2017-02-17 00:33:55.724573
+289,29,Doctor Bane,cost_per_impression,paused,9208,,2017-02-17 00:33:56.083847,2017-02-17 00:33:56.083847
+290,29,Magnificent Jubilee,cost_per_click,archived,5724,,2017-02-17 00:33:56.508913,2017-02-17 00:33:56.508913
+291,29,Doc Samson of Hearts,cost_per_click,paused,9637,,2017-02-17 00:33:56.792348,2017-02-17 00:33:56.792348
+292,29,Polaris,cost_per_click,paused,1650,,2017-02-17 00:33:57.208473,2017-02-17 00:33:57.208473
+685,69,The Chameleon Knight,cost_per_click,running,1424,,2017-02-17 00:36:18.213019,2017-02-17 00:36:18.213019
+686,69,Green Bullseye,cost_per_click,paused,2317,,2017-02-17 00:36:18.727188,2017-02-17 00:36:18.727188
+687,69,Darkhawk,cost_per_click,running,5172,,2017-02-17 00:36:19.115602,2017-02-17 00:36:19.115602
+688,69,Cy-Gor,cost_per_impression,paused,2104,,2017-02-17 00:36:19.390449,2017-02-17 00:36:19.390449
+689,69,Carnage Boy,cost_per_impression,running,9294,,2017-02-17 00:36:19.807137,2017-02-17 00:36:19.807137
+759,78,Red She-Hulk Strange,cost_per_impression,archived,2197,,2017-02-17 00:36:47.057649,2017-02-17 00:36:47.057649
+760,78,Supah Bolt Eyes,cost_per_impression,paused,4094,,2017-02-17 00:36:47.374487,2017-02-17 00:36:47.374487
+761,78,Ben,cost_per_click,paused,9851,,2017-02-17 00:36:47.592602,2017-02-17 00:36:47.592602
+762,78,The Aqua the Fated,cost_per_impression,archived,1578,,2017-02-17 00:36:48.031742,2017-02-17 00:36:48.031742
+763,78,Mysterio,cost_per_click,paused,2161,,2017-02-17 00:36:48.416248,2017-02-17 00:36:48.416248
+764,78,General Gamora,cost_per_impression,archived,9142,,2017-02-17 00:36:48.780307,2017-02-17 00:36:48.780307
+765,78,Red T Girl,cost_per_impression,paused,1909,,2017-02-17 00:36:49.074351,2017-02-17 00:36:49.074351
+766,78,Luna,cost_per_click,archived,8807,,2017-02-17 00:36:49.489773,2017-02-17 00:36:49.489773
+767,78,Giant Thing Strike,cost_per_impression,archived,5704,,2017-02-17 00:36:49.930391,2017-02-17 00:36:49.930391
+171,18,Giant Renata Soliz,cost_per_impression,running,9609,,2017-02-17 00:29:29.492977,2017-02-17 00:29:29.492977
+172,18,Illustrious Cloak of Hearts,cost_per_click,archived,7633,,2017-02-17 00:29:38.994568,2017-02-17 00:29:38.994568
+173,18,Longshot,cost_per_impression,running,1984,,2017-02-17 00:29:49.594085,2017-02-17 00:29:49.594085
+174,18,Magnificent Match,cost_per_click,archived,8310,,2017-02-17 00:30:11.818513,2017-02-17 00:30:11.818513
+175,18,Azrael X,cost_per_impression,running,436,,2017-02-17 00:30:25.879745,2017-02-17 00:30:25.879745
+176,18,Dark Ripcord,cost_per_click,paused,7365,,2017-02-17 00:30:38.065784,2017-02-17 00:30:38.065784
+177,18,Dark Loki,cost_per_click,paused,3564,,2017-02-17 00:30:48.400005,2017-02-17 00:30:48.400005
+178,18,Cyborg Aurora the Fated,cost_per_impression,running,6069,,2017-02-17 00:31:03.228216,2017-02-17 00:31:03.228216
+179,18,Cyborg Osiris Fist,cost_per_impression,paused,8845,,2017-02-17 00:31:19.405015,2017-02-17 00:31:19.405015
+180,18,Shocker,cost_per_impression,running,7408,,2017-02-17 00:31:34.407533,2017-02-17 00:31:34.407533
+181,18,Cyborg Wiz Kid Dragon,cost_per_click,paused,829,,2017-02-17 00:31:50.286951,2017-02-17 00:31:50.286951
+182,18,Titan Brain,cost_per_impression,archived,1789,,2017-02-17 00:32:06.376448,2017-02-17 00:32:06.376448
+183,18,Shatterstar,cost_per_impression,archived,4829,,2017-02-17 00:32:16.614676,2017-02-17 00:32:16.614676
+184,18,Rick Flag,cost_per_impression,archived,2344,,2017-02-17 00:32:32.664011,2017-02-17 00:32:32.664011
+185,18,Red Aztar Eyes,cost_per_impression,paused,9365,,2017-02-17 00:32:40.898725,2017-02-17 00:32:40.898725
+441,44,Booster Gold,cost_per_impression,archived,7880,,2017-02-17 00:34:49.760281,2017-02-17 00:34:49.760281
+442,44,Mr Maya Herrera,cost_per_impression,archived,3630,,2017-02-17 00:34:50.292892,2017-02-17 00:34:50.292892
+443,44,Toxin,cost_per_click,running,9903,,2017-02-17 00:34:50.585426,2017-02-17 00:34:50.585426
+444,44,Magnificent Jolt X,cost_per_click,archived,7465,,2017-02-17 00:34:50.833246,2017-02-17 00:34:50.833246
+445,44,Supah Penance,cost_per_click,paused,3815,,2017-02-17 00:34:51.1996,2017-02-17 00:34:51.1996
+667,67,Rick Flag,cost_per_impression,archived,118,,2017-02-17 00:36:11.550566,2017-02-17 00:36:11.550566
+668,67,Cyborg Ares Strange,cost_per_click,archived,7293,,2017-02-17 00:36:11.889552,2017-02-17 00:36:11.889552
+669,67,Firestorm the Hunter,cost_per_impression,running,6976,,2017-02-17 00:36:12.229428,2017-02-17 00:36:12.229428
+670,67,Deathstroke I,cost_per_impression,paused,863,,2017-02-17 00:36:12.721962,2017-02-17 00:36:12.721962
+671,67,Tiger Shark,cost_per_click,archived,165,,2017-02-17 00:36:13.055453,2017-02-17 00:36:13.055453
+672,67,Falcon I,cost_per_impression,running,8911,,2017-02-17 00:36:13.287657,2017-02-17 00:36:13.287657
+673,67,Red Dormammu IX,cost_per_impression,archived,2992,,2017-02-17 00:36:13.63372,2017-02-17 00:36:13.63372
+674,67,Cyborg Brainiac,cost_per_click,paused,2517,,2017-02-17 00:36:14.11037,2017-02-17 00:36:14.11037
+675,68,Agent Bolt,cost_per_impression,running,5222,,2017-02-17 00:36:14.692191,2017-02-17 00:36:14.692191
+676,68,Dark Northstar,cost_per_click,archived,4153,,2017-02-17 00:36:15.056129,2017-02-17 00:36:15.056129
+677,68,The Leader III,cost_per_click,archived,3234,,2017-02-17 00:36:15.255817,2017-02-17 00:36:15.255817
+678,68,Ultra Chamber,cost_per_click,archived,3984,,2017-02-17 00:36:15.815403,2017-02-17 00:36:15.815403
+679,68,Magnificent Elektra,cost_per_impression,archived,1952,,2017-02-17 00:36:16.260346,2017-02-17 00:36:16.260346
+680,68,Captain Hercules IX,cost_per_impression,archived,7351,,2017-02-17 00:36:16.623542,2017-02-17 00:36:16.623542
+681,68,The Steel Eyes,cost_per_impression,running,6419,,2017-02-17 00:36:16.880968,2017-02-17 00:36:16.880968
+682,68,Dark Alien,cost_per_impression,archived,8103,,2017-02-17 00:36:17.206901,2017-02-17 00:36:17.206901
+683,68,The Thing the Fated,cost_per_impression,archived,6975,,2017-02-17 00:36:17.473722,2017-02-17 00:36:17.473722
+684,68,Tiger Shark III,cost_per_click,paused,2837,,2017-02-17 00:36:17.81429,2017-02-17 00:36:17.81429
+732,75,Illustrious Multiple,cost_per_click,running,5558,,2017-02-17 00:36:35.30551,2017-02-17 00:36:35.30551
+733,75,Cat Spirit,cost_per_impression,archived,6995,,2017-02-17 00:36:35.652844,2017-02-17 00:36:35.652844
+734,75,Chuck Norris the Hunter,cost_per_impression,paused,6561,,2017-02-17 00:36:36.160624,2017-02-17 00:36:36.160624
+735,75,Captain Warp the Hunter,cost_per_click,paused,3173,,2017-02-17 00:36:36.395312,2017-02-17 00:36:36.395312
+736,75,The Songbird Brain,cost_per_click,running,6435,,2017-02-17 00:36:36.720019,2017-02-17 00:36:36.720019
+737,75,Hybrid,cost_per_click,paused,9831,,2017-02-17 00:36:36.972597,2017-02-17 00:36:36.972597
+738,75,Giant Jubilee,cost_per_impression,running,1966,,2017-02-17 00:36:37.529327,2017-02-17 00:36:37.529327
+739,75,Dark Martian Manhunter,cost_per_click,running,4533,,2017-02-17 00:36:37.809032,2017-02-17 00:36:37.809032
+740,75,Doctor Magog,cost_per_click,paused,7367,,2017-02-17 00:36:38.222243,2017-02-17 00:36:38.222243
+741,75,Green Zatanna Lord,cost_per_click,paused,4916,,2017-02-17 00:36:38.690642,2017-02-17 00:36:38.690642
