@@ -33,9 +33,8 @@ docker run --name postgres-gpt -p 5432:5432 \
 -d yulinying/postgres-gpt
 ```
 
-Alternatively, you can use the [yulinying/postgres-gpt-playground](https://hub.docker.com/repository/docker/yulinying/postgres-gpt-playground https://hub.docker.com/repository/docker/yulinying/postgres-gpt-playground) image that includes pre-embedded sample document data. For more information, please refer to the Postgres-GPT-Playground.
+Alternatively, you can use the [yulinying/postgres-gpt-playground](https://hub.docker.com/repository/docker/yulinying/postgres-gpt-playground) image that includes pre-embedded sample document data. For more information, please refer to the Postgres-GPT-Playground.
 
-Alternatively, you can use the yulinying/postgres-gpt-playground image, which includes pre-embedded sample document data. Please see: About Postgres-GPT-Playground.
 
 <br/>
 
@@ -55,7 +54,6 @@ select ai_embedding_doc('<doc_dir>', '<doc_name>');
 select ai_ask_doc('<doc_name>', 'your question');
 ```
 
-<br/>
 
 ### Query Data in Natural Language
 
@@ -110,8 +108,6 @@ ai_embedding_doc(doc_dir varchar, doc_table varchar)
 select ai_embedding_doc('/opt/gpt/incubator-paimon/docs', 'paimon');
 ```
 
-<br/>
-
 ### [ai_ask_doc](postgres_gpt/ai_ask_doc.sql)
 
 Search for the text closest to the question as a prompt from the vector results stored in doc_table and obtain an answer through openai.
@@ -135,7 +131,6 @@ ai_ask_doc(doc_table varchar, question varchar, max_token integer, mode varchar 
 select ai_ask_doc('paimon', 'What is the purpose of the paimon?');
 ```
 
-<br/>
 
 ### [ai_to_sql](postgres_gpt/ai_to_sql.sql)
 
