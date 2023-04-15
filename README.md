@@ -1,4 +1,4 @@
-# Postgres-GPT Readme
+# Postgres-GPT
 
 Postgres-GPT is a Postgres UDF project that seamlessly integrates Postgres-Vector and OpenAI to establish a SQL-based knowledge repository from Markdown files.
 
