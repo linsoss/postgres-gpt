@@ -36,8 +36,6 @@ docker run --name postgres-gpt -p 5432:5432 \
 Alternatively, you can use the [yulinying/postgres-gpt-playground](https://hub.docker.com/repository/docker/yulinying/postgres-gpt-playground) image that includes pre-embedded sample document data. For more information, please refer to the [Postgres-GPT-Playground](## About Postgres-GPT-Playground.
 
 
-<br/>
-
 ### Natural Language Document Search
 
 Build embedding for automatic document indexing and use natural language queries to return results based on the closest vector cosine distance to a few paragraphs of document content, which are reorganized into natural language answers.
