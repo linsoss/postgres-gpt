@@ -24,7 +24,7 @@ This project was inspired by [AskBend](https://github.com/datafuselabs/askbend) 
 
 ### Installation
 
-To run Postgres-GPT, which is an image that already includes all UDF functions and relevant plugins, you can use Docker.
+To run Postgres-GPT, which is an image that already includes all UDF functions and relevant plugins, Docker is the recommended method of running it.
 
 ```other
 docker run --name postgres-gpt -p 5432:5432 \
