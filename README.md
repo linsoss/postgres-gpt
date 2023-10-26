@@ -14,7 +14,7 @@ select ai_embedding_doc('/opt/gpt/incubator-paimon/docs', 'paimon');
 select ai_ask_doc('paimon', 'How to create a Paimon catalog on S3?');
 ```
 
-![Untitled](./asset/preview.jpeg)
+![Untitled](asset/preview.png)
 
 This project was inspired by [AskBend](https://github.com/datafuselabs/askbend) and [DataBend AI function](https://databend.rs/doc/sql-functions/ai-functions/) projects, for which I am very grateful to Databend for their exploration in this area.
 
